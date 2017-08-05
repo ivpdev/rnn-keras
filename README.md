@@ -9,7 +9,6 @@
 
 ### Run
 - activate venv
-- python prepare.py
 - python train.py
 - adjust filename in predict.py to the last from weights-improvement
 - python predict.py

@@ -1,0 +1,1 @@
+ssh -i "rnnImageKey.pem" ec2-user@ec2-34-226-68-94.compute-1.amazonaws.com
