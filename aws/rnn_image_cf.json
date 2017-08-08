@@ -8,9 +8,16 @@
       "Description" : "WebServer EC2 instance type",
       "Type" : "String",
       "Default" : "t2.nano",
-      "AllowedValues" : [ "t2.nano", "t2.micro", "t2.small", "t2.medium", "t2.large", "c4.large", "g2.2xlarge", "p2.xlarge"]
-,
+      "AllowedValues" : [ "t2.nano", "t2.micro", "t2.small", "t2.medium", "t2.large", "c4.large", "g2.2xlarge", "p2.xlarge"],
       "ConstraintDescription" : "must be a valid EC2 instance type."
+    },
+
+    "ImageType" : {
+       "Description" : "Linux Flavor(Amazon Linux or Ubuntu)",
+       "Type" : "String",
+       "Default" : "AmazonLinux",
+       "AllowedValues" : [ "AmazonLinux", "Ubuntu" ],
+       "ConstraintDescription" : "Amazon Supported Image Type"
     },
 
     "KeyName" : {
@@ -31,6 +38,20 @@
   },
 
   "Mappings" : {
+    "AmazonLinux" : {
+      "us-east-1"      : { "AMI" : "ami-4b44745d"  },
+      "us-east-2"      : { "AMI" : "ami-305d7c55"  },
+      "us-west-2"      : { "AMI" : "ami-296e7850"  },
+      "eu-west-1"      : { "AMI" : "ami-d36386aa"  },
+      "ap-southeast-2" : { "AMI" : "ami-52332031"  }
+    },
+    "Ubuntu" : {
+      "us-east-1"      : { "AMI" : "ami-2edccb38"  },
+      "us-east-2"      : { "AMI" : "ami-2797b642"  },
+      "us-west-2"      : { "AMI" : "ami-7fd7c906"  },
+      "eu-west-1"      : { "AMI" : "ami-19896660"  },
+      "ap-southeast-2" : { "AMI" : "ami-b32b37d0"  }
+    },
     "AWSInstanceType2Arch" : {
       "t1.micro"    : { "Arch" : "PV64"   },
       "t2.nano"     : { "Arch" : "HVM64"  },
@@ -185,13 +206,19 @@
     "EC2Instance" : {
       "Type" : "AWS::EC2::Instance",
       "Properties" : {
-        "UserData" : { "Fn::Base64" : { "Fn::Join" : [ "", [ "IPAddress=", {"Ref" : "IPAddress"}]]}},
+        "UserData" : { "Fn::Base64" : { "Fn::Join" : [ "", [
+            "#!/bin/bash -v\n",
+            "sudo su ec2-user\n",
+            "cd /home/ec2-user\n",
+            "git clone https://github.com/ivpdev/rnn-keras.git\n",
+            "echo done > /tmp/log.txt\n"
+        ]]}},
         "InstanceType" : { "Ref" : "InstanceType" },
         "SecurityGroups" : [ { "Ref" : "InstanceSecurityGroup" } ],
         "KeyName" : { "Ref" : "KeyName" },
         "ImageId" : {
-            "Fn::FindInMap" : [ "AWSRegionArch2AMI", { "Ref" : "AWS::Region" },
-                          { "Fn::FindInMap" : [ "AWSInstanceType2Arch", { "Ref" : "InstanceType" }, "Arch" ] } ] }
+                  "Fn::FindInMap" : [ {"Ref" : "ImageType" }, { "Ref" : "AWS::Region" }, "AMI" ]
+        }
       }
     },
 
@@ -202,28 +229,12 @@
         "SecurityGroupIngress" :
           [ { "IpProtocol" : "tcp", "FromPort" : "22", "ToPort" : "22", "CidrIp" : { "Ref" : "SSHLocation"} }]
       }
-    },
-
-    "IPAddress" : {
-      "Type" : "AWS::EC2::EIP"
-    },
-
-    "IPAssoc" : {
-      "Type" : "AWS::EC2::EIPAssociation",
-      "Properties" : {
-        "InstanceId" : { "Ref" : "EC2Instance" },
-        "EIP" : { "Ref" : "IPAddress" }
-      }
     }
   },
   "Outputs" : {
     "InstanceId" : {
       "Description" : "InstanceId of the newly created EC2 instance",
       "Value" : { "Ref" : "EC2Instance" }
-    },
-    "InstanceIPAddress" : {
-      "Description" : "IP address of the newly created EC2 instance",
-      "Value" : { "Ref" : "IPAddress" }
     }
   }
 }
