@@ -1,4 +1,4 @@
 .idea
-/data
+/data/model
 /venv
 *.pem

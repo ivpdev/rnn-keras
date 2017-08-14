@@ -15,7 +15,7 @@
     "ImageType" : {
        "Description" : "Linux Flavor(Amazon Linux or Ubuntu)",
        "Type" : "String",
-       "Default" : "AmazonLinux",
+       "Default" : "Ubuntu",
        "AllowedValues" : [ "AmazonLinux", "Ubuntu" ],
        "ConstraintDescription" : "Amazon Supported Image Type"
     },
@@ -189,11 +189,13 @@
       "Properties" : {
         "UserData" : { "Fn::Base64" : { "Fn::Join" : [ "", [
             "#!/bin/bash -v\n",
-            "sudo apt-get install git\n",
-            "git status > /tmp/git-status.txt\n",
-            "sudo su ec2-user\n",
-            "cd /home/ec2-user\n",
-            "git clone https://github.com/ivpdev/rnn-keras.git\n",
+            "cd /home/ubuntu \n",
+            "git clone https://github.com/ivpdev/rnn-keras.git>/tmp/git.log 2>/tmp/git-error.log  \n",
+            "cd rnn-keras\n",
+            "sudo mkdir data\n",
+            "sudo mkdir data/model\n",
+            "wget -O wonderland.txt http://www.gutenberg.org/cache/epub/11/pg11.txt \n",
+            "cd ..\n",
             "echo done > /tmp/log.txt\n"
         ]]}},
         "InstanceType" : { "Ref" : "InstanceType" },
