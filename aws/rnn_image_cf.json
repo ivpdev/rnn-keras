@@ -194,7 +194,7 @@
             "cd rnn-keras\n",
             "sudo mkdir data\n",
             "sudo mkdir data/model\n",
-            "wget -O wonderland.txt http://www.gutenberg.org/cache/epub/11/pg11.txt \n",
+            "pip install h5py\n",
             "cd ..\n",
             "echo done > /tmp/log.txt\n"
         ]]}},
