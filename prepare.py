@@ -5,8 +5,6 @@ from keras.layers import Dropout
 from keras.layers import LSTM
 from keras.utils import np_utils
 
-
-
 # load ascii text and covert to lowercase
 filename = "data/wonderland.txt"
 raw_text = open(filename).read()
@@ -14,7 +12,9 @@ raw_text = raw_text.lower()
 
 # create mapping of unique chars to integers
 chars = sorted(list(set(raw_text)))
+#print chars
 char_to_int = dict((c, i) for i, c in enumerate(chars))
+#print char_to_int
 
 n_chars = len(raw_text)
 n_vocab = len(chars)
@@ -35,6 +35,8 @@ print "Total Patterns: ", n_patterns
 
 #print "Preview patterns:"
 #print dataX[0:10]
+#print '--------'
+#print dataY[0:10]
 
 
 # reshape X to be [samples, time steps, features]
@@ -44,6 +46,10 @@ X = X / float(n_vocab)
 # one hot encode the output variable
 y = np_utils.to_categorical(dataY)
 
+#print '-----------'
+#print X
+#print '-----------'
+#print y
 
 # define the LSTM model
 model = Sequential()
