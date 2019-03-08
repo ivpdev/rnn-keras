@@ -19,8 +19,8 @@ char_to_int = dict((c, i) for i, c in enumerate(chars))
 
 n_chars = len(raw_text)
 n_vocab = len(chars)
-print "Total Characters: ", n_chars
-print "Total Vocab: ", n_vocab
+print("Total Characters: ", n_chars)
+print("Total Vocab: ", n_vocab)
 
 # prepare the dataset of input to output pairs encoded as integers
 seq_length = 100
@@ -32,7 +32,7 @@ for i in range(0, n_chars - seq_length, 1):
 	dataX.append([char_to_int[char] for char in seq_in])
 	dataY.append(char_to_int[seq_out])
 n_patterns = len(dataX)
-print "Total Patterns: ", n_patterns
+print("Total Patterns: ", n_patterns)
 
 #print "Preview patterns:"
 #print dataX[0:10]
@@ -59,7 +59,7 @@ checkpoint_filepath="data/model/all/weights-improvement-{epoch:02d}-{loss:.4f}.h
 checkpoint = ModelCheckpoint(checkpoint_filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
 callbacks_list = [checkpoint]
 
-print 'Fitting model....'
+print('Fitting model....')
 model.fit(X[0:1000], y[0:1000], epochs=10, batch_size=128, callbacks=callbacks_list)
 
 
@@ -73,8 +73,8 @@ int_to_char = dict((i, c) for i, c in enumerate(chars))
 # pick a random seed
 start = numpy.random.randint(0, len(dataX)-1)
 pattern = dataX[start]
-print "Seed:"
-print "\"", ''.join([int_to_char[value] for value in pattern]), "\""
+print("Seed:")
+print ("\"", ''.join([int_to_char[value] for value in pattern]), "\"")
 # generate characters
 for i in range(1000):
 	x = numpy.reshape(pattern, (1, len(pattern), 1))
@@ -87,7 +87,6 @@ for i in range(1000):
 	sys.stdout.write(result)
 	pattern.append(index)
 	pattern = pattern[1:len(pattern)]
-print "\nDone."
-
+print("\nDone.")
 
 

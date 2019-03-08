@@ -1,0 +1,585 @@
+ich habe seit 2 Tagen in meiner Warehouse Software 
+unter Exportieren-File
+Optionen ein fast nicht lesbare Schrift.Am Samstag
+bekam
+die Version WAREHOUSE Sales firstclass 20 Neo, musste nach der Installation
+feststellen, dass die Beschriftung der Knoepfe im Exportbildschirm
+nicht lesbar sind (z.B. Dateiformat, Navigation, Komprimierung, Schrift,
+Sortieren
+u.s.w. die komplette Beschriftung unter File-Optionen, Titelseite gestalten
+und
+Knoepfe gestalten.Im Exportmodus ist die Schrift im kleinen Vorschaufenster im Filemenü immer identisch mit der Schrift der Überschriftzeile vom Untermenü.Auf meinem Specificationsheet werden die Textbausteine nur noch als Sprechblase angezeigt, ich hätte
+heute eine Onlinepräsentation meines Specificationsheets gehabt, um einen Sponsor zu gewinnen.Seit Ihrem update kommen komische Blasen auf meinem Blatt zu Vorschein, die ich aber nicht
+reingemacht habe !auf meinem detailsheet http://www.rhein-main-versand.de sind seit gestern
+abend einige Calibri-Texte durch blaue Sprechblasen(?!) ersetzt, u.a. auch das
+Impressumleider kann ich ab heute nicht mehr meine Sammlungen verwalten.
+Es tut sich bei Auswahl des entsprechenden Buttons gar nichts mehr.Trotzdem öffnet sich dann die Online-Sammlung in einem neuen Fenster, welches aber nur halbe Bildschirmgröße erreicht. D.H., es muß von Hand auf volle Bildschirmgröße gebracht werden.Möchte gerne die Studio-Version nutzen, aber ich kann die Previewbilder nicht austauschen, obwohl sie im Online-Organizer gelöscht wurden - d.h. ich habe die Reihenfolge der Produkte so verändert bzw. Produkte gelöscht,damit die Preview immer das erste Produkt zeigt, aber es passiert nichts.Plötzlich wurden Daten nicht mehr geladen bzw.nur der ladevorgang (kreisende punkte)angezeigt,Texte verschoben dargestellt.In unregelmäsigen Abständen verschwinden gewisse Produkte 
+aus den Artikelpreview Rahmen.Wenn ich unter "Eigene Produktpalette" Daten, Statistiken oder Prozesse hochladen will und einen neuen Ordner erstellen möchte, so öffnet sich wenn ich das Werkzeug anklicke immer nur die AuswahlHabe keinen Zugriff mehr auf den Produktpalettencenter. Kann so keine Produkte mehr hochladen.Wenn man in der Tabellenpräsentation die Produktdarstellungs-Version wähl, dort dann bei Verlinken
+Dynamicolisting oder Popup wählen will, stürzt Iso ab (Ein Skript verlangsamt Iso 13. Soll
+das Skript weiterhin ausgeführt werden?... oder so ähnlich). Dann ist egal ob man ja oder
+nein drückt, denn es kommt zum Absturz: "Das Iso Addon ist abgestürzt".nach Eurem letzten Update funktionieren auf meinem Specificationsheet sowohl die Produktdarstellung
+(Verschieben und VergrÃ¶Ã?ern von Produkten) und die ProduktprÃ¤sentation (Daten werden nach der
+Auswahl nicht in neuem Fenster zur "Gesamt- und TeilstÃƒÅ’ck-Ansicht" geÃ¶ffnet.meine maximale Anzahl der Aktivierung wurde erreichtZieht man bei der Version 13 Daten und Prozesse, die mit dem selben Kartenleser eingelesen
+wurden, per Mouse in das Schedulingview, erscheinen die Prozess-Dateien entweder gar nicht
+oder ohne die Bestellnummernfelder, die mit den Daten importiert wurden.Es können zwar 
+die allgemeinen Daten, nicht jedoch die mit erstellten Bestellnummern geladen werden, s. o. !crv-Import ohne BestellnummerBestellnummer fehlt bei den Dateien nach dem ImportUnter Paymentreader ist das ganze Projekt zusehen, nur bei dem Aussetzer keine Bestellnummer mehr.Die Bestellnummern der xls-Datei sind die ganze Zeit da und sobald der eigentliche Ablauf geöffnet wird sind alle Bestellnummern weg.Wenn ich dann den neuen Ablauf (Beispiel: Gelsenkirchen-Projekt2.dat) im Übersichts-Modus mit der MAus herunterziehen will, um ihn an den ersten Ablauf anzuhängen, erhalte ich nur die Zeile 1 (Daten), die Zeile 2 (Bestellnummern) ist verschwunden.Leider kann ich wie bislang problemlos möglich keine CASH-Erstellungen im DAT-Verfahren importieren, die Bestellnummernzeile bleibt leer (ZD-Aufnahmen funktionieren).Wenn ich nun von dem USB Stick eine Prozessdatei im Complete EMV Format importiere (Kartenleser Konfiguration: Psk/80MB/81Seg/26Bpd/File_Typ .crv) sehe ich im Warehouse Program die Bestellnummer sehe aber kein Daten.Unter der neuen Version 14 gelingt es nicht, Verkaufsobjekte eine Bestellnummer zu zuordnen ("normale" XLS-Statistiken in der separaten Bestellnummernzeile o.k. und unter der Version 12 sind auch die Prozessbestellnummern zu sehen)Das funktioniert grundsätzlich auch, es kommt aber der Prozess nur ohne Bestellnummer an; also die Bestellnummer geht bei der Operation verloren.Wenn ich jedoch den Anzeigepfeil weiter versetze ist keine Artikelbestellnummer zu sehen.Nun jedoch, als ich das Projekt erneute öffnete und geringfügige Bearbeitungen gemacht habe, gibt es keine Bestellnummern mehr.In SFC ist gar keine Bestellnummer zu sehen.Beim Kopieren von DATA3- Filmen fehlt die Bestellnummernzeile bzw. ist auch keine Bestellnummer zu sehen.Nun kann ich bei Warehouse Sales 2008/2009 zwar meinen Ablauf zur Weiterbearbeitung aufrufen, jedoch keine Bestellnummern sehen.nach der letzten Aktualisierung wird innerhalb eines Projekts, hier das "rüberziehen" einer Prozessdatei (dat) im Übersichts Modus die Bestellnummer nicht mit übernommen.habe seit gestern Sales Firstclass 19 Spezialedition installiert-registriert und habe mir dann die Salesdateien von der Speicherkarte importiert und beim anzeigen des Ablaufs, kommt einfach keine Bestellnummer.Dann kam als nächstes " Brennen "
+nach einiger Zeit kam die Meldung " Problembehandlung"
+X Problem in Klasse " wmembank.dll"( Ladeadresse: 0x8e 534678) an Adresse
+6x8e80fcre
+Exception Oxc82562 " ACCESS_FORBIDDEN ".Beim letzte Brennversuch kam aber folgende
+Fehlermeldung:
+Problem in Klasse "wmembank.dll" (Suchadresse:Ox83708447) an Adresse 6x8e80fcreIn allen Fällen kam es beim Erstellen der Disk-Image-Datei zu einem Absturz!Nachdem ein paarmal die DVD`s richtig gebrannt sind kommt jetzt nach einiger Zeit immer folgende Fehlermeldung:
+Problem in Klasse "wmembank.dll" (Suchadresse:Ox28111570) an Adresse 6x8e80fcreHabe mehrmals versucht meine Produktpreview zu brennen bei dem Disc Image kommt jedesmal Fehler.
+Problem in Klasse "wmembank.dll" (Ladeadresse:7X0f4d0124)
+an Adresse Ox6ffcre Exception 6Xd3382563
+ACCESS_FORBIDDEN.Ich bekommen nach dem 8 stündigen Verschlüsseln eine Fehlermeldung bezüglich
+"wmembank.dll" und muss das Programm beenden.-beim Brennen einer Produktpreview mit Produkte im IT & OFFICE Katalog 12 & 13
+Die Fehlermeldung erscheint bei Schritt 7 von 9 - Disc Copy wird
+erzeugtBeim neuen Brennen erfolgt ständig die Fehlermeldung:
+wmem reports disc project build exception:118764f4Beim
+Brennen meldet das Programm schon beim verschlüsseln folgende Fehlermeldung.
+wmem reports disk project puild exception 411451v4!!! MBK exception in CopyWorkspace: 13 - process failed !!!Das Brennen mit folgendem Fehler abgebrochen: Verschlüsseln fehlgeschlagen.das Brennen wurde mit folgendem Fehler abgebrochen: Verschlüsseln fehlgeschlagen.Das Brennen
+wurde mit folgendem Fehler abgebrochen: Verschlüsseln fehlgeschlagen.Ich habe meine Produktpreview mit 330 Dateien versucht zu brennen. Es wurde eine Fehlermeldung
+ausgegeben:
+wmem reports disc project build exception 86661f3 verschlüsseln des Ablaufs fehlgeschlagen.Beim Brennversuch kommt immer folgende Fehlermeldung: wmem reports
+disc project build exception 3762636C8Beim Brennen einer Produktpreview tritt der Fehler : "wmem reports disc project
+build exception - 411451v4" auf.Was bedeutet die Fehlermeldung :
+wmem reports disk build exception
+411451v4 ?Schon beim Entschlüsseln wird der Prozess mit der Fehlermelung 411451v4 abgebrochen.nach der Installation von WarehousE Produkte im IT § OFFICE Katalog 12 auf meinem Laptop mit Windows Vista
+und der Aktivierung des DATA3-Code's für die CWEMVX-Ausgabe auf DVD erhielt ich nach der
+Berechnung von 6 von 7 Schritten für die Erstellung des Disc - Projects folgende
+Fehlermeldung:
+
+wmem notifies disc project 481763a7Beim Brennen einer DvD erhalte ich folgende Fehlermeldung:
+wmem reports disc project exception:411451v4Beim Processing
+Fehlermeldung
+wmem reports disc project
+build exception: 411451v4Fehlermeldung beim Brennen:Nr. 411451v4
+Verschlüsseln des Ablauf fehlgeschlagenIch kann ein Projekt nicht mehr brennen.Hallo, ich bekomme beim Erstellen einer DVD 
+
+ein Fehlerprotokoll am
+Ende der Verdschlüsselung:
+
+ERROR: PrepareDVDProcessFiles() failed with errNo 8
+- ciphering failed
+!!! MBK exception in BurnProject: 28 - process ciphering failed
+!!!Werte Damen und Herren, mehrmals habe ich versucht meine Produktpreview zu brennen und immer kam
+diese Meldung.
+
+wmem reports disc project build exception:
+411451v4nachdem ich mein programm installiert habe, kommt so ziemlich am schuss 
+die installationsmeldung
+bei der umwandlung ihrer produktbank ist ein
+fehler aufgetreten .Es wird die Registrierung der Software verlangt, diese ist jedoch nicht möglich. Es wird "Fehlercode -27" angezeigt.Leider meldet das Programm beim Verschlüsseln Fehlercode 27,da das Programm auf eine andere E-mailadresse aktiviert ist.Beim Brennen von CD/ DVD bekomme ich die Fehlermeldung -27es wird gesagt "Software registrieren" Antwort des Systems "die Software ist unter einer
+anderen email - Adresse schon registriert".Sehr geehrtes Service-Team, mein Warehouse Produkte id IT&OFFICEKatalog 12 weigert sich eine DVD zu brennen und verlangt immer nach einer Aktiviereung für DATA3, obwohl ich die Software(G1-14543-48801-87860-012174-3051212-16607) bereits registriert habe. Angeblich wäre diese Nummer bereits mit einer anderen Email-Adresse registriert (Fehlercode -27).Guten Tag , Bitte Sie mein Ticket zu bearbeiten da ein Fehlercode 27 aufgetreten ist.Mit Fehlercode 27 wird angezeigt, dass meine Programme bereits unter einer anderen Mailadresse registriert sind.Fehlermeldung 27Fehler 27Wenn ich erneut auf registrieren klicke kommt dann folgender Text!
+
+"Diese Seriennummer ist schon mit einer anderen E-mail-Adresse angemeldet worden. Bitte wenden sie sich an den Warehouse Helpdesk Fehlercode 27.Nun bekomme ich jedoch eine Fehlermeldung dass die Seriennummer mit einer anderen Emailadresse angemeldet ist. Fehlercode 27.Bei der Eingabe meiner Daten wird m ir immer mitgeteil,daß diese n icht stimmen unter meiner E-M ail Adresse zeigt immer das diese nicht stimmt, ich weis nun bei4m  besten Willen nicht mehr was ich tun soll.Nunmehr kommt stets die Meldung Software ist bereits unter einer anderen Eamil-Adresse angemeldet.Jedoch wurde mir mitgeteilt, dass meine Seriennr. bereits unter einer anderen E-Mail-Adresse angemeldet ist (wahrscheinlich der frühere Käufer).Es erscheint folgender Hinweis: "Der Dateityp von ...PRC kann von
+Warehouse Produkte im IT & OFFICE Katalog nicht geöffnet werden."Leider kann Ihr Verarbeitungsprogramm die dabei
+in Ansatz gebrachte Dateierweiterung *.PRC (Workit) nicht lesen.prc-Dateien vom Powerread NEXUS funktionieren im Vorschaumodus einwandfrei, im
+Schedulingview wird die Bestellnummer nicht uebernommenIch will eine kleine Prozessdatei klappt nicht:
+
+Wenn diese importiert werden soll: Kann nicht geöffnet werden.- einige PRC Dateien werden von Version 13 überhaupt nicht erkannt, bis Version 12 hatte
+ich keine ProblemeJedoch bin ich nicht in der Lage meine Produktpreviews dort abzuspielen er erkennt nur Produkte, wenn ich einen TESTPROZESS draufkopiere erkennt er es zwar als "Prozesssymbol" aber er sagt "der Typ wird nicht unterstützt.Processes mit dem prc-Format werden nicht angenommen.Bei der Nutzung Ihres Programm Produkte im IT&OFFICEKatalog 12 firstclass 
+Seriennummer:  C7-30236-22315-77122-46137-58501-12463 unter  Window 7
+
+erhalte ich bei dem Versuch einen Verkaufs-Prozess  der Datei "PROC1038.prc" erstellt mit
+dem Kartenlesegerät UWORK Speedreader 43.4 einzufügen folgende Fehlerinformation:
+
+Der Dateityp kannnicht geöffnet werdenIch kann Verkaufsprozesse meines Kartenlesers vom Typ .PRC nicht richtig ausführen.Ich verwende Prozesse mit "PRC" Format und möchte sie mit Warehouse bearbeiten und soll dafür
+eine Workit Bibliothek installieren. Wie mach ich das?Drücke ich -abbrechen- so kommt der Hinweis : der Dateityp
+kann von Warehouse nicht geöffnet werden.wie kann ich PRC Dateien öffnen, bzw. eine Wokit-Bibliothek einrichten.ich kann plötzlich keine Salesdateien mit der Dateiendung .prc mehr importieren.leider gelingt es mir nicht, Salesdateien mit der Endung .prc in meine Produktpreview ein zu
+binden.Nun plötzlich fehlt beim Import von *.prc Dateien die Bestellnummernzeile.Ich kann keine prozesse importieren. sales firstclas zeigt mir dann immer an, dass der dateityp nicht geöffnet werden kann.Wenn ich nun die Dateien auf den
+Schedulingview ziehen will erscheint immer DATA-5-Aktivie-
+rung, da der Dateityp wohl nicht von dieser Software
+geöffnet werden kann.Dann versuche ich das Anzeigen von dem
+aktuell rot aktivierten Verkaufsprozess.
+
+In vielen Fällen beginnt nun aber das Anzeigen vom allerersten Prozess.Das Problem besteht indirekt darin, dass der Abschnitts-Endzeiger verschwunden ist!Wenn ich auf Preview drücke, beginnt die Anzeige immer von vorn bei Datensatz 1, statt an derStelle wo ich zuletzt bearbeitet habe.Während der Bearbeitung tritt das Problem auf, dass der Anzeigepfeil immer zum Ablaufbeginn zurückspringt.Ich schau mir den Ablauf an, er ist zu ende, dann klicke ich auf "beenden" und bewege den Pfeil auf das letzte Objekt im Prozess. Dieser startet dann nicht von der position des Pfeils sondern von beginn an.Immer wenn ich ab einer bestimmten stelle meinen gewinn eintragen möchte, springt die erstellung zum anfang und das auch bislang erstellte datei wird ersetzt.Als ich heute noch einmal etwas weiter machen wollte, stellte ich fest, daß jetzt immer wenn ich den Startzeiger an eine Stelle setze und von dort aus die Preview ansehen möchte, das Anzeigen ganz von Beginn an startet.Jetzt kehrt der Curser immer bei Beenden auf die Anfangposition des Prozesses zurück eine Bearbeitung des Prozesses ist somit unmöglich.Warum bleibt der blaue Marker bei Sales first class nicht dort stehen, wo ich beim Anzeigen eines elements stoppe. Er springt immer gleich wieder auf den Anfang zurück.Der Startzeiger wird angezeigt, aber bei der Vorschau beginnt die Anzeige der Daten immer vom ersten Eintrag an.Ich kann den Anzeigepfeil in einem Frame nicht mehr korrekt platzieren. Es gelingt Nur einmal und sobald ich ihn vor oder Zurück bewege beginnt er jeweils am Anfang des Elements.Ich kann den Anzeigepfeil in einem Element nicht mehr korrekt positionierenDie Software startet auf
+dem neuen Rechner nicht, sondern bricht den Start ab mit Angabe des Fehlercodes -9.Dannn habe ich es auf einem XP32bit installiert... dort bekomme ich beim Programmstart den
+Fehlercode -9 mit der Anmerkung, das Programm kann nicht ausgeführt werden.Momentan ließ sich dieses nicht öffnen - Fehlercode 9 - habe schön brav
+alles gelöscht, neu installiert, Fehlercode bleibt bestehen.Ich bekomme immerwieder den Fehlercode 9.Was ist bei Programmstart Fehlercode -9 zu tun?Bei Programmaufruf Hinweis:
+Fehlercode: -9Nach
+"Prozessstruktur wird initialisiert" kommt Fehlercode 9.Ausserdem
+erscheint Fehlercode-9.beim starten von Sales firstclass erscheint folgende
+Fehlermeldung,
+Programm kann nicht ausgeführt werden,Neuinstallation
+mehrfach probiert, weiterhin Fehlercode 9Heute wollte ich Saeles firstclass 19 und Produkt im IT Katalog 11 starten.
+Fehlermeldung -9. Was ist da los?Auch beim Start von Warehouse Super Produkt Designer bekomme ich weiterhin eine Fehlermeldung. Das Programm konnte nicht ausgeführt werden.Leider
+erscheint die Fehlermeldung -9 beim ausführen.Habe meine
+Festplatte D: von 75 GB auf 120 GB erweiter und jetzt kommt beim Programmstart die
+Meldung, Das Programm konnte nicht ausgeführt werden, eventuell ist der
+Program-Order beschädigt. Fehlercode 9leider hatte ich lt. Ihren Anweisungen keinen Erfolg, Fehlercode -9 beim ausführen des
+Programms erscheint noch immer!Dann wollte ich ihn ende August starten und da kam die Fehlermeldung
+Installation Beschädigt neuinstallieren oder Helpdesk kontaktieren.Ich bekomme immer die Fehlercodmeldung 9fehlercode -9Das Programm von sales firstclass 19 lässt sich nicht mehr starten, es wird nur kurz das Logo angezeigt und es erscheind die Fehlermeldung Fehlercode 9.Wenn ich bei meinem neuen Sales firstclass 20 Neo EMV ein vorhandenes Projekt lade, dann dann
+"stockt" der Bildschirm solange bis das Projekt ganz geladen ist.-9Dann
+kam eine Fehlermeldung mit "smart....".Kurz darauf konnte ich keine
+Aufträge mehr durchrechnen.Wenn ich jetzt eine CRV Datei lade, kann ich sie nicht durchrechnen.Ich muÃ? schnell eine Abrechnungsprozess erstellen und mein Programm 2007/2008 geht nicht?,Habe folgenden Hinweis, der die
+Netzwerkkarte betreffen. # Das Smartcard-Device "Scanners (Temtech High
+Definiti/ Temtech Digital Import Device) kann nicht fuer die Abrechnung
+geoeffnet werden. Grund: externes ProblemEs erscheint immer wieder: " Das Smartcard-Device `Modem Nr. 3 Scan - In`kann
+dieses Format nicht ausführen.
+Dieses Format wird nicht unterstuetzt
+oder ist nicht lesbar. Benutzen Sie die Funktion
+`Supported Formats`, um gepasste Formate zu ermitteln."Beim
+Versuch, im Previewfenster anzuzeigen, wird folgender Hinweis
+eingeblendet:
+" Das Smartcard-Device `none`kann dieses Format nicht
+ausführen. Die aktuell genutzte Geraetekennung ist nicht innerhalb des
+erlaubten Bereichs fuer Ihr System"Jetzt erhalte ich folgende Anzeige:
+Das Smartkarte-DeviceSelbst Produkt im IT&OFFICE Katalog 12-Windows 7angegeben, zeigt an -Das Smartcad-Device" kann dieses Format nicht ausführen. Die aktuell genutzte Geräteerkennung liegt nicht innerhalb des erlaubten Bereichs für ihr System!!!Jetzt aber mit der Version "Statistics Cleaner Studio 18 firstclass" bekomme ich  - nach einer gelungenen kurzen Test-Erstellung - beim Klick auf den "Erstellungs-Button" immer nur die Fehlermeldung "Das Smartcard-Device 'Scanner (High Definition Scan' kann nicht für die Erstellung geöffnet werden. Das Gerät ist bereits in Benutzung ...".Wenn ich ihn zur Kontrolle im Programm durchrechnen will kommt folgende Meldung: "Das Smartkarten-Device 'none' kann nicht für die Abrechnung göffnet werden. Es wurde kein Treiber auf ihrem System gefunden".Bei der dritten Zeile kommt nun wieder der Fehler "Das Smartcard-Device 'Microsoft Scancreator' kann dieses Format nicht erstellen. Grund: Die aktuell genutzte Gerätekennung ist nicht innerhalb des erlaubten Bereichs für Ihr System".Aber es erscheint dabei der Hinweis: "Das Smartcard-Device `Microsoft Scancreator` kann dieses Format nicht erstellen! Grund: Die aktuell genutzte Gerätekennung ist nicht innerhalb des erlaubten Bereichs für Ihr System"Wenn ich ein Statstikfile importiere, lässt sich dieses nicht durchrechnen.Wenn ich eine Datei durchrechnen will, erscheint folgende Fehlermeldung: 
+
+"Das Smartcard-Device ´Microsoft Scancreator` kann dieses Format nicht erstellen! -Grund: Die aktuell genutzte Gerätekennung ist nicht innerhalb des erlaubten Bereichs für Ihr System."Folgender Hinweis:
+"das Smartcard-Device 'none' kann dieses Format nicht ausführen!
+Grung: 
+Die aktuelle genutzte Gerätekennung ist nicht innerhalb des erlaubten Bereichs für Ihr System"Meine in Bearbeitung befindliche Artikelpreview lässt sich nicht mehr in Gang setzten / bearbeiten.Konnte Statistics Laboratory L installieren.
+aber damit kann ich weder durchrechnen noch erstellen.Ich erhalte beim Auswählen einer xls-datei für die Zusatzstatistik folgende Fehlermeldung:
+
+Fehlernummer: 44044. Fehlerbeschreibung: Datei nicht gefunden.das Smartcard-Device microsoft scancreator kann diese format nicht erstellen
+die aktuell genutzte gerätekennung ist nicht innerhalb des erlaubten Bereichs für ihr systemSmartcard der Statistikdatei kann nicht angezeigt werden, Smart-header funktioniert nicht.Beim starten ist das Programm aber immer abgestürzt.Das Programm läßt sich nicht
+mehr öffnen !Aber auch dieses Programm startet nicht.
+
+Es kommen: "Oberfläche laden und Einrichtungsanzeigen" dann nichtsBeim Programmaufruf kommt fuer ca. 4-5 Sekunden die Sanduhr auf dem Bildschirm, sonst keine weitere Reaktionen, keine Fehlermeldungen, Warnungen etc. Das Programm wird nicht gestartet.Beim hochladen Ihres Programms hängt sich der neue Rechner aufEs kommt bis zum Produkt Pool einrichten, dann beendet
+das Programm ohne jegliche Fehlermeldung.Nun habe ich ein Programm gekauft, das nicht startet.Hier bleibt das Programm beim Starten bei "Programmoberfläche wird eingerichtet" hängen.Beim Starten der Software bekomme ich die Fehlermeldung:
+WAREHOUSE Sales firstclass Neo funktioniert nicht mehr...Das Programm läßt sich nicht starten, verabschiedet sich bei "Programmoberfläche wird aktualisiert" ohne Fehlermeldung.wenn ich das programm ausführen will, erscheint zwar der startbildschirm, aber sobald drin steht, dass die prozessstruktur eingerichtet wird, bricht der startvorgang ab, ohne eine fehlermeldung.beim Starten des Programmes Warehouse Sales Firstclass WH erscheint nachdem die Programmoberfläche eingerichtet wird eine Fehlermeldung somit kann das Programm nicht gestartet und benutzt werden.Nach der Verlaufsmeldung "Projektablage wird eingerichtet" kommt der Windows 7-Hinweis  "Sales Xtra L7 funktioniert nicht mehr"....nach dem dort geschriegben wird, dass die prozessstruktur eingerichtet wird, bricht dDas Programm Sales firstclass WH bricht nach der Anzeige com plattform wird eingerichtet ab und startet nicht.Nach einer neuinstallation von sales firstclass lässt sich das Programm nicht mehr startenIch habe auch bereits den neuesten Update installiert, aber trotzdem startet WH nicht.seit kurzem kann ich keine Daten mehr hochladen. Kurz nach meiner Registrierung ging das
+noch problemlos. In der Fehlermeldung heißt es, es gibt ein Problem mit der OWH-Applikation.ich habe mehreren Freunden ein Passwort für meine Online Sammlung zu gesand, und nach ca. 3
+Wochen konnten sie sich nicht mehr einlogen.Nach dem Hochladen von Dateien im daata2 und smw Format erscheint
+"Allgemeiner Fehler der Online Segmente"ich erhalte die Fehlermeldung: 46283.
+Schwerer Fehler im OWH-Applikation.Was muss ich tun, damit meine Prozesse als EMV dargestellt werden, so wie es im Ultimate-Paket offeriert und auf den Warehouse Beispielseiten gezeigt wird?Ich erhalte beim Auswählen einer xls-datei für die Statistiken folgende Fehlermeldung:
+
+Fehlernummer: 15508. Fehlerbeschreibung: Datei nicht gefunden.Beim Hochladen meiner Datenin der online-Sammlung kommt immer die Fehlermeldung beim upload ist ein fehler aufgetretten versuchen sie es später noch einmal.Ich erhalte die Fehlermeldung: Seriennummer bereits benutztFehlermeldung:  CRV Datei kann nicht gelesen werden.Guten Tag, seit Tagen kann ich leider kaum noch Produkte in meine Online Sammlung ladenbeim Exportieren erhalte ich die Fehlermeldungbeim Exportieren erhalte ich die Fehlermeldung 
+
+Interner Programmfehler 4225.u.kp.vImmerzu kam
+der Hinweis "Es konnte keine Verbindung zur Hardware aufgebaut werden." und anschließend
+"Der gewählte Ordner ist schreibgeschützt. Speichern nicht möglich."immer wenn ich auf "Erstellung" und dann auf "Direkterstellung" gehe, kommt folgende
+Fehlermeldung:
+
+"Auf Ihrem System wurde keine Erstellungshardware gefunden."Beim Aktivieren einer Direkterstellung erhalte ich die Meldung "Auf ihrem System wurde
+keine Erstellungshardware gefunden".Wenn
+ich auf Datei --> Erstellung --> Direkt gehe, kommt der Hinweis:\"Auf
+Ihrem System wurde keine Erstellunghardware gefunden.\" und die Erstellung
+ist nicht moeglich.Es wird keine Bestellnummer geschrieben.Win7, keine Verbindung zur Hardware bei DirekterstellungIch kann 4 Gerätetreiber aus dem Auswahlfeld anklicken, jedes Mal erhalte ich "Es konnten keine Verbindung zur Hardware aufgebaut werden".Bei der Direkt Erstellung wird keine Bestellnummer erstellt.Die Bestellnummernwert wird nur über Scanner erstellt.Im Erstellungs-Dialogfenster von "Warehouse Sales Firstclass WH" erscheint auch der zu erstellende Ablauf, aber sobald ich den Button "Erstellung" aktiviere erscheint der Hinweis "Es konnte keine Verbindung zur Hardware aufgebaut werden"Bei Ihrem Programm sind auch beide Geräte Angezeigt und kann man sie auch auswählen jedoch kommt immer nur der Hinweis: "Es konnte keine Verbindung zur Hardware aufgebaut werden".Ich sehe zwar dass sie da ist, aber da ist keine Bestellnummerbeim Versuch eine Direkterstellung zu starten, bekomme ich den Fehlerhinweis 'Auf Ihrem System wurde keine Erstellungshardware gefunden'.Bei der Direkterstellung kann ich keine Bestellnummer einlesen.Beim Erstellen eines Prozesses von einem XLS-Scanner habe ich das Problem, dass ich im Previewfenster zwar die Daten sehe, jedoch keine Bestellnummer zu sehen ist (Preview Prozess und Bestellnummer sind aktiviert).Wenn ich die .pbl datei in das projekt ziehe habe ich im übersichts modus zwar eine zweite zeile (nehme an die Bestellnummernzeile) bekomme aber keine Bestellnummern hinein.beim Versuch die Dataset-Creation-Funktion zu benutzen erhalte ich die Fehlermeldung "Es konnte keine Verbindung zur Hardware aufgebaut werden."bei der Direkterstellung ist keine Bestellnummer zu sehen, ich benutze Windows XP, wie kann ich diesen Fehler beheben ?bei der eingabe
+der zeitspanne erscheint die meldung: "fehler beim parsen der XSL datei".Bei Gewinn-Kalkulation kann ich keine Gewinnziele mehr festlegen. Es wird wohl der
+eingegeben Monat angezeigt, aben nicht in die Übersicht übertragen.Bei dem Program Gewinn-Kalkulation kommt die Fehlermeldung "Fehler beim Parsen der
+XSL Daten"
+obwohl es vorher sehr gut lief.hallo, bei der erstellung einer gewinnkalkulation kommt bei mir immer die fehlermeldung
+"fehler beim parsen der xsl dateine" ???Wenn ich ein neues Gewinnziel eigeben will kommt immer die Fehlermeldung
+"Fehler beim parsen der XSL Daten"Beim erstellen einer Gewinnkalkulation erscheint nach der Eingabe des Monats die
+Fehlermeldung:
+"Fehler beim Parsen der XSL Daten".Nachdem ich den Monat eingeben habe, erscheint der Hinweis " Fehler beim Parsen der XSL
+Daten"Fehler beim holen der XSL Daten bei der GewinnkalkulationBeim Programm Starten
+und das Gewinnziel eigeben kommt nach Return immer:Fehler beim
+Parsen der XSL Daten.Ich habe Warehouse Produkt im IT OFFICE Katalog 13 gekauft, bei der Gewinn Kalkulation bkomme ich den
+Hinweis, Fehler beim Parsing von XSL Daten, in der Community habe ich keine Lösung
+gefunden.Ich bekomme seit 3 Tagen bei der Gewinn-Kalkulation die Fehlermeldung: "Fehler beim
+Parsen der XSL Daten".Bei der Gewinnanwendung in der Gewinnzieleingabe erhalte ich immer die Fehlermeldung:
+Fehler beim parsen der XSL Daten.nach der Eingabe eines Monates kommt folgender Hinweis :
+ 
+Fehler beim parsen der XSL Daten.Bei der Kalkulationsanwendung in der Gewinnzieleingabe erhalte ich immer die Fehlermeldung:
+Fehler beim parsen der XSL Daten.Bei der der Monatseingabe unter Gewinnziel eingeben und mit
+Eingabetaste (Enter) bestätigen, kommt die Fehlermeldung "Fehler beim Parsen der XSL
+Daten".Beim Versuch einen Monat einzugeben erscheint immer die Meldung: Fehler beim Parsen
+der XSL Dateien.Nach Eingabe eines Gewinnzieles erscheint 
+folgende Fehlermeldung: "Fehler beim Parsen der XSL-Daten".Jedes mal wenn ich ein Gewinnziel setzen will bekomme ich Anzeige:"Fehler beim Parsen
+der XSL Datei".Beim Arbeiten mit der Kurven-Kalkulation escheint immer der Hinweis: Fehler beim Parsen
+der XSL Daten.Mein Super Bill administrator funktioniert nicht auf Windows 7 Wo kann ich
+eine abgrade Version bekommen ?Mein Betriebssystem  ist   Windows 7,das Programm habe ich 2010 gekauft.
+Ich möchte jetzt mit meinem Warenbestand ein Projekt gestalten.
+Beim brennen diese, erkennt das Programm den aktuellen Brenner nicht!ich habe von euch 3Produkt Programme Warehouse 8 Warehouse 10first Class und Warehouse 11 first Class. Jetzt habe
+ich einen neuen Computer mit Windows 7-und alle 3 sind für die Katz.Ich habe auf meinem Rechner ein Upgrade von Vista auf Windows 7 ausgeführt und kann nun das
+Warehouse Produktprogramm nicht mehr installieren.Kann ich mein Produkt Ultimate Programm ( 11.3.5.3
+)und B2B Creator auch auf meinem neuen Rechner mit dem Programm Window 7 installieren?Der Rechner wurde neu aufgesetzt Betriebssystem xp, unter win 7 läuft
+das Programm nicht 
+der Lizenzschlüssel läßt sich nicht aktivieren.'Leider' stelle ich jetzt auf Windows 7 64bit um. Welche Möglichkeiten gibt es
+entweder meine jetzige Version zu nutzen oder welches ist die kostengünstigste Variante,
+wenn ich ein Programm vergleichbaren Umfangs und vergleichbarer Bedienfreundlichkeit /
+Funktionalität nutzen möchte?Ich habe auf meinem Laptop Windows 7 installiert. Da WAREHOUSE CASH &
+Prozessscanner (Kaufdatum Feb. 2010)nicht mehr lief, habe ich es
+deinstalliert und dann versucht neu zu installieren.Ich habe 3 Programme Produkte IT&OFFICEKatalog7 +firstclass und Sales firstclass 2009 und
+Erwege
+auf Windows 7 umzusteigen.Warum ist der prozesscanner nicht mit windows 7
+Kompatibel?Habe neu Windows7, DVD / und vindows firstclass2009 neo laest sich nicht
+mehr
+auf windows7 ladenWindows
+7 falsche Version.Ich habe jetzt einen neuen PC mit Windows7 und
+moechte die Programme wieder installieren, diese sind aber nicht
+kompatibel.meine version vom Warehouse Super Bill Administrator funktioniert
+leider auf meinem neuen Rechner nicht mehr , gibt es eine Moeglichkeit
+das
+Programm unter Windows 7 lauffaehig zu machen , oder eine neue Version
+?Eine Installation unter Windows 7 ist nicht moeglich.ich habe meinen Computer auf Win 7
+aufgeruestet und kann das Programm Sales firstclass 2009 nicht mehr
+installiern.Laesst sich Abläufa im office katalog 11 auf einem min 7 rechner richtig
+installieren?Wie kann ich diese Software Version
+auf einen Windows 7 PC installieren?ich habe Windows 7 HomePremium 64 bit
+Version als Betriebssystem.
+
+Leider funktioniert ja mein Warehouse abläufe
+fuers buero 6 nicht mehr.Es erscheint die
+Meldung: Windows Version nicht unterstuetzt.Nun habe ich
+meine beiden Notebooks komplett neu installiert mit einem neuen
+Betriebssystem, das Windows 7 Ultimate.
+Damit laesst sich nun das Programm
+nicht mehr neu installieren !Laeuft Sales firstclass 2009 Neo auch unter Windows 7??seitdem ich das Betriebssystem windows 7 auf dem Rechner habe, laesst
+sich
+der produktcreator 11 nicht mehr installieren.erkennt keinen brenner wenn eine Video-DVD erstellt werden solldie Online Reg. funktioniert nicht, obwohl ich online 
+war bei Produkte im OFFICE & IT Katalog 11 deluxe.ich bekomme mein Sales firstclass 19 Ultimate unter Windows7 nicht ans laufen. Es liegt daran,
+dass nach der eigentlichen Installation das Eingabefenster für die Seriennummer nicht
+erscheint.Fehlercode:
+-4 angezeigtxls creator 21fehlercode -4Leider läßt sich für mich aus der von Ihnen gesendeten e-mail nicht der Code zur Demo-Phase erschließen.This Version of Warehouse Specs Manager Ultimate ist currently not registered for .SPEC files. Do you want register it ?      YES or NO
+
+Wenn ich auf Yes gehe komme ich normal ins Programm weiter. Nichts passiert.Beim Registrierungsversuch konnte ich in der Rubrik "Meine Produkte" keine Möglichkeit finden, meinen Upgradecode einzugeben.der unten angegebene Aktivierungscode zur Verlängerung der Testphase auf 33 Tage funktioniert leider nicht.
+Bitte um Zusendung eines neuen Codes.wenn ich die neuen von mir erstellten sheets im .trl aus meinem neuen programm exportiere - wie kann ich diese bei ihnen unter der .ssh zuweisung meiner domainen hochladen?Bei dem Versuch der Aktivierung mit og. Code erhalte ich Meldung, mich zuerst zu registrieren. Bei der Registrierung wird mir mitgeteilt, die og. Seriennummer sei wahrscheinlich (!)bereits registriert.ich habe eine unvollständige Mailadresse angegeben. Wenn ich mich jetzt einlogge, erscheint der Hinweis , daß die Seriennummer schon benutzt wird.Die online-Registrierung/Freischaltung von Statistics Creator WH 21 nach dem Start zeigt zwar bei Seriennummer und E-Mail-Adresse grüne Häkchen, quitiert aber mit der Behauptung, dass keine Internetverbindung möglich wäre.Ich habe nun das Produkt instaliert es funktioniert auch. Nun möchte ich es gerne registrieren geht aber nicht da es schon für eine andere E-Mail registriert ist.ich möchte das schon auf dem'Hauptrechner' installierte u.registrierte Programm (Sales firstclass neo) auch auf dem Laptop nutzen, kann hierzu aber keine Freischaltung erreichen (z. B. Eingabe dat.-Dateien nichgt möglich ohne verherige Registrierung...)Jetz habe ich mich neu regiestrieren wollen,mit wahrscheinlich anderer Mailanschrift.Als ich mit neuen Login mich einwählen wollte,wurde mir gesagt,dass das Produkt schon regiestriert sei.Gerne möchte ich dieses Produkt für mich registrieren.Ich habe Specs Manager 9 auf einem neuen PC instaliert und wurde aufgefordert die Seriennummer anzugeben. Nach aufführung der auf der Box aufgeführten Nummer, wurde ich nicht weitergeleitet.Sehr geehrtes Warehouse-Team, ich habe die Cd Bill Cleaner Studio verkauft, nun hat der Käufer ein Problem er kann mit dieser Software keine updates machen, da die Software immer noch auf meinen Namen (Accunt) registriert ist.Leider ist eine Registrierung des Produktes nicht möglich, da die Meldung kommt: Seriennummer bereits benutzt.sind ihre Produkte auch mit den Apple-Computer (Betriebssystem OS-X) kompatibel?Ich habe neuerdings einen Apple PC.
+Wie kann ich den gekauften "Digital Produkt Creator 12"verwenden, bzw Ihre Angebote im Netz?Haben Sie eine Software, die beim Mac laeuft??1. ist Warehouse Sales Xtra l7 Mac tauglich?
+2. selbe Frage zu Analysity 14 Xtra
+3. Specsmanager 10da ich mir einen Apple ,iMac Os X angeschafft habe, wollte ich fragen ob ich meine Warehouse Programme, überwiegend sales firstclass 20, auch auf diesem
+Computer von Apple iMac nutzen kann oder sind sie nicht kompatible?Ich bitte um die Ermöglichung der Nutzung meiner erworbenen Hard- und Software auf meinem Mac.Leider Funktionieren weder auf der Windows noch auf der Macoberfläche die Tasten a, q, j, u, i, o, p. Woran kann das liegen?Sind Ihre Programme Apple-kompatibel?Ich habe die Download Version Warehouse Specssheet Creator WH gekauft. Das Programm wird nach 3 Sekunden wieder beendet, bzw. kann nicht gestartet werden.Ich habe das Online Specificationsheet erstellen "free" aktiviert. Wenn ich das Programm starten möchte, bekomme ich die Meldung "das Plugin fehlt". Ich arbeite mit einem Mac.Möchte meine o.g. Software auf Mac laufen lassen?Meine Frage nun, gibt es auch eine Version für Mac Os???Ist die Software "Produkte im OFFICE Katalog WH" auch auf einem Apple-Computer (MAC) unter dessen Betriebssystem "MAC OS X Lion" lauffähig?Ich bin auf Apple, Mac umgestiegen und möchte Warehouse first class weiter verwenden.Ich möchte mein Mac auf OSX Lion upgraden, funktioniert "Archivieren Sie Ihre Bestandslisten (Mac)" unter Lion?bin auf mac umgestiegen, funktioniert sales firstclass auf apple ?Kann ich Sales firstclass  auch in  das Betriebssystem von Apple installieren?Habe einige Daten und Ablauf Bearbeitungsprogramme und jetzt einen MacAus Hardware Gründen wurde die Übertragung beendet, soll angebelich
+zu schwache Prozessorleistung haben oder zu wenig Speicher.Beim Reinladen von EMVX Prozessdaten bricht das Programm nach ca 500
+Kb ab und meldet:
+Systemspeicher reicht nicht aus.Es wird immer eine Ende der Demophase angezeigt.Wenn ich dann aber auf das erleuchtete ?Programm unbegrenzt verwenden drücke? bekomme ich wieder die Fehlermeldung: Der Freischaltcode ist nicht korrekt.Drücke ich danach auf Programm unbegrenzt verwenden, bekomme ich weiterhin die Fehlermeldung. Der Freischaltcode ist nicht korrekt.Hallo, der mir per Mail zugesandte Aktivierungscode für Produkt Organizer 12:
+DEMOC-03827-07014-21153-68834-60636
+wird mit der Meldung "der Freischaltcode ist nicht korrekt" abgewiesen.Ich bekomme Fehlermeldung Demophase abgelaufen - Registrieren mit Kunden Nr..Demophase läuft abWarehouse Produkt Organizer 12 und 13 läst sich nicht freischalten
+mit den per Mail geschickten Aktivierungcode.Ich warte schon zwei tage auf die seriennummer von     W
+AREHOUSE Produkt Organizer 13,die ich ber e-mail bekommen solte?"Programm weiter verwenden"
+führt zum Hinweis
+"Der Freischaltcode ist nicht korrekt..."der Verlängerungscod für die Demofase  wird nicht angenommenmöchte gerne die Zusatzprogramme xtraGOOD Calculage 14 und xtraGOOD Corporare 5 auf meinem PC
+installieren, aber die auf dem CD Cover angegebenen Seriennummern werden nicht
+akzeptiert???Ich habe das auf Ihrer Webseite erwähnte AutoSortSD-Funktionspaket im Programm nicht
+gefunden. Erst nach dem Download von Plug-In-Funktionen stand eine Datensatz-Funktion zur
+Verfügung, mit diesem ist mir o.g. Ziel jedoch nicht gelungen.Ich kann meine Zusätze xtraGOOD Corporare 5 und xtraGOOD Calculage im Fenster- Geben Sie Ihre
+Seriennummer ein-
+nicht mehr weiter installieren, da sich hier nichts mehr eingeben lässt.Im Installer steht, ich solle xtraGOOD Calculage und Corporare sowie AutoSortSD via
+Hilfe/Zusatzprogramme installieren. Wenn ich dort aber (offline) die auf der Rückseite der
+CD-Hülle angegebenen Seriennummern eingebe, behauptet das Programm, diese seien
+ungültig...Bei der Funktion "Zusatzprogramme installieren" werde ich aufgefordert, das Programm zu
+aktivieren.
+Wenn ich das mache, wird mir angezeigt, das die Software
+bereits aktiviert ist.1.Wie kann das Programm sowie die Zusatzprogramme auf DVD brennen 
+bzw.wie kann ich die Zusatzprogramme instalieren.Es kommt immer die
+Fehlermeldung "Das Installationsprogramm für "XtraGood Calculage" konnte auf dem
+Installationsmedium nicht geöffnet werden......" obwohl die DVD eingelegt ist.Anschließend wollte ich das Programm (Product_Organizer_13) installieren, welches mir nach mehreren Versuchen nicht gelingt. Ebenfalls wird auch das Programm (xtraGOOD CrystalCycrle 5 WAREHOUSE Edition) nicht installieren.Ich habe nach kompletter Neuinstallation u.a. sales firstclass Ultimate Spezialedition installiert, um updates zu erhalten, bzw xtraGOOD Calculage installiereb zu können, werde ich ständig auf die Registrierung verwiesen.doch die seriennummer hat eine stelle zu viel entweder das "Z" oder die letzte "3" passen nicht rein somit habe ich die S/N: 
+3-31304-87734-04150-5167-06373 und
+Z3-31304-87734-04150-5167-06373
+ausprobier, doch beide funktionieren nicht.aufgrund von einigen Rechner-Setups (Systemabstürze, neuer Rechner) habe ich nicht mehr die Möglichkeit, das Programm
+
+Analysity Statistics Laboratory 20 Download-Version,
+Bestellnummer:61308483000334367WHR,
+Seriennummer: T3-03038-71133-67283-56662-18207-68518,
+Registrierungsdatum: 11.03.2011
+
+frei zu schalten, da die begrenzte Anzahl von Freischaltungen erreicht ist.Wenn ich die Zusatzprogramme aktivieren will,erscheint
+die Meldung : Die Anzahl der möglichen Aktivierungen 
+wurde überschritten !Beim Programmstart akzeptierte die DVD Version
+bei der Aktivierung die Download-Seriennummer nicht.Ich kann mein Sales firstclass weder über das Internet, noch über das Telefon aktivieren.Ich habe mein SALES firstclass 2010 NEO mit der Seriennummer D-51207-38458-80204-55530-05112 nun auf einen neuen Rechner gespielt, da der alte PC defekt war; nun wollte ich das Programm nutzen, benötige dafür einen Aktivierungscode - den ich laut Internet-Warehouse eingeben sollte; ich weiß aber leider nich tmehr, wo er ist; 
+könnte ich einen neuen Code dafür bekommen, damit ich das Programm wieder nutzen kann?1.Beim öffnen von OFFICE Katalog 13 und
+WH first Clas geht anhängendes Fenster auf,da ich beide Versionen habe, aber immer nur ein Programm geöffnet habeNach dem Rückladen eines Systembackups (OS:Windows7 64Bit) meldet SalesFirstclass 19 Neo, dass die Testzeit abgelaufen ist, obwohl ich gültige Seriennummer habe (T8-26371-58197-33412-03110-24771-01414)xtraGOOD Xorporare 5 läßt sich nach mehreren Neuinstallationen von Windows und damit des Programmes nicht mehr freischalten.Bei der Installation der Zusatzprogramme über den Menüpunkt "Hilfef" erhalte ich bei beiden Programmen die Meldung: Falsche Seriennummer.Doch jedesmal, wenn ich die Serien-Nummer eingegeben habe, erschien der Hinweis: die Seriennummer ist ungültig.Nachdem Upgrade auf "Sales Firstclass WH Ultimate" stellte ich fest, dass die Plugins "Sellulate inScan 7.1 Starterpack" (aus Sales firstclass 20 Premium) sowie "xtraGOOD Calculage 13  (Bestände, Rechnungen, Verkauf, Doku, Archivierung ..., aus aus Sales firstclass 19 Ultimate Spezialedition) nicht mehr verfügbar sind.Giebt es andere Möglichkeiten das Programm frei zu schalten oder komme ich irgendwie an eine neue Seriennummer, ohne das Programm nochmal zu kaufen?Nach Eingabe meiner Daten erfragt das Programm den Registrierungscode.Bei der Eingabe der Seriennummer wurde mir gesagt, daß sie bereits existiert.Meldung beim Versuch zu brennen: "Es ist kein geeigneter Brenner
+gefunden worden"Das Brennen von DVDs ist unter Win7 nicht möglich.In der Brennauswahl wird der Brenner nicht angezeigt und es ist kein Brennen möglich.Die Meldung lautet: "Brennprozess erfolgreicch abgeschlossen", ohne dass ein einziges Bit auf der BD gelandet wäre.Habe mit der 9 fachen Brenngeschwindigkeit beim Abspielen
+auf den DVD-Brenner Probleme.Nachdem Start des Brennvorgangs erscheint die Fehlermeldung "Brennergerät kann nicht gefunden werden".bei meinem Produktorganizerprogramm kommt bei Aufruf die Meldung daß ich mich registrieren soll obwohl ich mich im April schon registriert habe.Ich möchte meine fertiggestellten Daten Brennen. Leider kommt die Meldung:
+       Brenner nicht vorhanden/gefunden.Vor dem Brenne tritt folgendes Problem auf.habe software aud neuem pc installiert, konnte mit neuer adresse nicht registrieren und kann zz nicht brennen sowie kurze prc einlesen.Ich habe eine Produktpreview und kann sie nicht auf eine DVD brennen. Sagt  hat einen Versionskonflikt.Als ich auf brennen einer DVDdrückte, erschien ein Blättchen:
+Kein Brenner gefunden.Leider finde das Programm keinen Brenner.Brennen - Schritt 4: Wie werden hier zu Brenner und Geschwindigkeit Daten eingegeben?seit ich windows 7 habe, erkennt das Programm meinen Brenner nicht.Beim Versuch eine DVD zu brennen,wird kein Brenner gefunden.der rechner sagt,kein brenner vorhanden.Bei mir wird kein Brenner angezeigt?Das Programm erkennt den Brenner nicht!Hallo ich habe auf win 7 umgestellt und möchte eine Produkt CD erstellen, doch mein Originalprogramm erkennt meinen Brenner nicht.Ich kann keine DVD brennen.
+Man schlägt mir ein Brennprozedur-Update vorWenn ich meine Dia-Show brennen möchte, wird kein Brenner angezeigt.Ich benötige Version 9.5.432 oder höher.Beim brennen auf DVD wird mein Brenner beim Brennvorgang nicht angezeigt?Die Produktpreview läßt sich nicht brennen. Hinweis Programm ist gestört:Das Problem ist, wenn ich die
+Prozesserstellung starte, wird die Erstellung Fehlerhaft (Teilweise gut, Teilweise erscheinen kleine
+Fehler auf dem Bildschirm) das geht so lange bis die Erstellung vom Programm abbricht.Bei der Erstellung kann ich jedoch nicht vorwärts und rückwärts durch die Daten springen und auch
+nichts erstellen.Bei EM Erstellung - Es werden keine Prozessdaten angezeigt - nur Leere FeldDer Datenscanner wird gefunden, er laesst sich
+aus
+SFC 20 auch ansprechen, es werden aber weder Daten noch Bestellnummer erstellt.Nach Start mit "S" erfolgt einmaliger Zugriff auf Datenscanner mit Anzeige
+EMoutInPlug auf der Datenscanner-View und danach Fehlermeldung auf PC "Es konnte keine
+Verbindung zur Hardware aufgebaut werden".Leider hat das die Lage
+nicht verbessert, es erscheint weiterhin nur ganz gurz zu Anfang der geplanten Importierung
+von meinem ProfiKartenleser Systech MDX-X3E ein einzelner Datensatz im Erstellungs-Fenster und ich kann auch
+die Datensatz-Vor- und Rückwärtssteuerung nutzen, aber bei Betätigen des Erstellungs-Bottoms (grüner Knopf)
+erscheinen nach wie vor keine Daten und am Ende wird angezeigt, dass die zwar benannte, aber
+nicht sichtbare Erstellung "nicht existiert".Leider sind weder im ARC-Modus noch im Cardreader-Modus Daten
+im Vorschau-Fenster zu sehen.Nun
+erhalte
+ich allerdings folgenden Hinweis, wenn ich meinen Inhalt vom Datenscanner in
+das Programm WAREHOUSE Sales Firstclass 2009 Ultimate uebertragen moechte:
+
+Es
+konnte keine Verbindung zum Hardwea aufgebaut werden.beim Oeffnen der Em-Liste
+erscheint ein kleiner Teil der Daten im Fenster des Programms und dann
+passiert gar nichts mehr.Seit ich Windows 7 habe kommt immer die Meldung wenn ich erstellen
+moechte,das keine Hardware gefunden wurde.Aber der em scanner wird nicht gefunden.Leider bekomme ich immer den
+Hinweis \"Es konnte keine Verbindung mit der Hardware aufgebaut
+werden\".Wenn ich nun WAREHOUSE Sales firstclass
+18 Ultimate öffne und auf Erstellung EMV drücke, so reagiert der Kartenleser
+zwar, nach einigen Kilobyte erscheint jedoch das Dialogfeld: "Es konnte
+keine Verbindung zur Hardware aufgebaut werden".Bei  der Erstellung in salesfirstclass 20, kommt die
+Fehlermeldung - es konnte keine Verbindung zur Hardware aufgebaut werden.Der
+Kartenleser beginnt automatisch und stoppt nach der Fehlermeldung: Nicht
+ausreichend Recourcen, entweder Platte zu langsam oder ungenügender HauptspeicherIch habe vor einigen Tagen das Programm Sales firstclas 20 Ultimate bei Ihnen erworben und
+Installiert dann habe ich meinen Kartenleser an der EtheNet Schnittstelle amgeschlossen und das
+Erstellungs Auswahlfenster geöffnet habe dann EM Kartenleser ausgewählt wenn ich dan den grünen
+Erstellungs Batten übertragen anwähle wird der Ablauf im Kartenleser gestartet aber das
+Vorschaufenster zeigt nur fehlerhafte zeichen und der Ablauf wird nicht übertragen.Doch leider (ich habe es 4 Mal versucht) speicherte der PC lediglich eine 50
+KB-Version, obwohl die Karte 30 Megabyte beinhaltete und die Daten auch auf dem PC im
+Warehouse-Programm zu sehen und zu lesen waren.Leider bekomme ich keine Produktvorschau bei der Erstellung angezeigt, sondern immer nur die ersten Daten, die beim Erstellungsbeginn vom Solarmobile QS-BV070 angezeigt wurden, als einzelner Datensatz.Man sieht nur ein leeres Datenfenster - der Datenscanner wird automatisch aktiviert aber die Software erstellt nichts und hängt sich dann kurze Zeit später auf.Wähle ich im Vorfeld "EM als DATA erstallen", wird nur "CWV-konforme EM-Hardware 4000 ARC" als Gerätetreiber angezeigt. Eine Erstellung kann ich nicht starten.Nach der Treiberinstallation kommt der Hinweis:
+1133 Skript gesteuerte
+Installation konnte nicht beendet werden.Beim Installieren vom DVD Treiber Warehouse DVD-Prozessverwalter 5 Gelb-Weisses
+Geraet) kommt folgende Fehlermeldung:
+1133. Unable to finish
+instullation.der DVD Treiber laesst sich nicht installieren, Hinweis DVD Treiber:
+"1133
+unable to finish Installation"Gemaess Ihrer Beschreibung wollte ich den DVD-Prozessverwalter
+installieren - fehlgeschlagen!Waehrend der Installation erscheint der Hinweis: 1133:
+Unable to finis installation.doch bei der installation des dvd prozessverwalters
+gelb/weiss kommt folgende meldung:
+1133 unable to finish
+installationAuch nach dem Download des Treibers
+dvd-prozessverwalter-5.de auf \"helpdesk.warehouse.net\" erscheint die
+Fehlermeldung:
+
+1133: Unable to finish installation.Kann DVD 8425 Device
+Treiber nicht LadenHallo auch nach Neuinstallation Problemcode -9Immer derselbe Problemcode -9....Sales Xtra L 8.8: Stocken in der SeitenansichtDie Anzeige von EMVX1 Abläufen, die mit Sales Xtra L 5 eingespielt wurden,
+stockt, sobald man zwie Zeilen gegeneinander durchrechnet.Sobald erste Daten oder Funktionen genutzt werden
+faengt der Ablauf an zu stocken.Wenn ich die Abläufe im Warehouse bearbeiten moechte so
+stcken die Abläufe sehr stark so das eine Bearbeitung fast gar nicht mehr
+moeglich ist.Beim Starten eines
+geladenen Prozesses in SalesfirstClass 19 faengt die Abrechnung an zu stolpern
+und
+plockiert das gesamte System, so dass ich das Netbook einem Hardreset
+unterziehen muss.Wie bereits bei Herr Benjamin Regeler erwähnt, stockt das Programm
+beim Bearbeiten und zusammenstellen der Ablaufteile.Bei
+Uebergaengen (egal welchen Typs) bleibt die Anzeige haengen und 
+springt einige Zeit nicht weiter.Bei Skripten stockt es manchmal!Manchmal allerdings funktioniert überhaupt nichts mehr, dann kann ich das
+Programm nur ueber den Task-Manager (sofort beenden) schliessen oder den
+Computer brutal ausschalten. In diesem Fall finde ich die ja von mir
+eingestellten Sicherungskopien nicht.Beim Bearbeiten von
+Complete-EMV
+Prozessen (egal ob im CWVEMX- oder DATA-Format) kommt es zu einer fast
+dauerhaften CPU Überlastung zu 100%, beim Durchrechnen bzw. Anzeigen der
+Übersicht zu extremem Stocken.Danach habe ich mir nochmals die alte Preview angesehen, diese stockte wie gehabt.Wir besitzen Neu einen Systech EMVR-QS154 VE Complete EMV Chipkartenleser,
+Leider
+koennen wir auf Warehouse Sales firstclas 19 sowie mit einem Testprogramm Warehouse
+Sales Xtra L7 die Abläufe nicht bearbeiten, da sie stocken.Wenn ich eine Produkt Prozesspreview mit mehreren Prozessen erstelle, stocken meine Prozesse beim
+Anzeigen fürchterlich.Nun habe ich das Problem, dass sich das Projekt nur noch einmal halbwegs vernünftig anzeigen lässt. (1x nach Neustart des Programms) Bei allen weiteren Versuchen werden nur noch die Zahlen angezeigt.Schon einfaches Umschreiben eines Auftrags kann dazu führen, dass die Vorschau stockt und Speicherfehler erzeugt.wenn ich mit der Overlay und ved backcalculating einstellung arbeite. Dann stockt mein Prozess bei großen Eingabedaten extrem.Ich habe in der Vergangenheit oft Rundunkskorrekturen (ich arbeite praktisch nur mit CWVEMX) durchführen müssen und danach stockt die Ausgabe und wird nicht mehr "flüssig" dargestellt.Eine Speicheranfrage ist
+ungültig. Eventuell ist kein Speicher mehr verfuegbar oder ein
+internes Problem ist aufgetreten.speicheranfrage ungültigImmer wieder beendet sich das Programm ohne eine für mich erkennbaren Grund. Dabei schreibt das Programm unter anderem:
+ 
+"Eine Speicheranfrage ist ungültig. Eventuell ist kein Speicher mehr verfügbar, oder ein internes Problem ist aufgetreten."Jetzt habe ich leider das Problem, dass ich ein
+bereits angefangenes Projekt beim wieder oeffnen also um es z.B. Tage
+spaeter weiter zu bearbeiten zu koennen, eine Fehlermeldung
+bekomme.
+
+Eine Speicheranfrage ist ungültig. Eventuell
+ist kein Speicher mehr verfuegbar oder ein internes Problem ist
+aufgetragen.Es wird unheimlich viel Arbeitsspeicher benötigt und oft und in unregelmäßigen Abständen kommt eine Meldung, welche beschreibt, dass eine Speicheranfrage ungültig ist und das Programm geschlossen werden muss.Die Speicheranfrage ist ungültig. Kernel...Adresse...Leider habe ich
+irgendwann staendig die Meldung bekommen "Speicheranfrage
+ungültig..." und ich konnte das Projekt nicht fertig stellen.aber an ca. 22. Stelle in der Gesamtansicht
+erscheint
+eine Fehlermeldung "Speicheranfrage ungültig".Fehler "eine speicheranfrage ist ungültig" in einigen
+programmsituationen.Fehlermeldung:
+Eine Speicheranfrage ist ungültig. Eventuell ist kein
+Speicher mehr verfuegbar oder ein internes Problem ist aufgetreten.Beim Brennversuch erscheinen, nachdem das Verschlüsseln lt. Fortschrittsanzeige
+zu 75% erfolgt ist, die Hinweise: "Speicheranfrage ungültig"
+sowie "Fehler beim Verschlüsseln. Es konnten keine Dateien gefunden werden".bei o.a. Programm bekomme ich die Fehlermeldung: Speicheranfrage ist ungültig etc.Ich habe Windows 7 (64 bit) und bekomme immer wieder die Fehlermeldung, dass eine Speicheranfrage ungültig ist (oder ein internes Problem ist aufgetreten) wenn ich einen Verkaufsprozess
+
+(prc-Datei) einfügen möchte.Das Processing startet, nach kurzer Zeit erscheint die
+Fehlermeldung: eine Speicheranfrage ist ungültig.Beim Erzeugen: Speicheranfrage klappt nicht.Nach ca. 8-13 Minuten des Vorganges. kommt eine
+Meldung:
+
+\\\"Eine Speicheranfrage ist
+ungültig
+Moeglicheweise ist kein Speicher mehr verfuegbar oder ein
+interenes Problem ist aufgetreten.\\\"installationsproblem asus fehlerDas Programmpaket konnte nicht installiert werden.die installation bricht immer wieder ab! mit dem hinweis auf den windows installer...Nach dem Download von WAREHOUSE Specs Manager 9 zum Test gekingt es mir
+nicht, das Paket zu installieren.Fehler 9000 bei der InstallationDie Software xls Creator 20 lässt sich nicht mehr starten.Jetzt habe ich Sales firstclass 20 Neo erworben und kann sie wegen der Fehlermldung 9000 nicht installieren.Wenn ich aber das Prog starten möchte kommt"Die Installation ist ungültig. Bitte installieren sie das Prog neu oder wenden sie sich an den Helpdesk".Die Software lauft aber es ist nicht möglich die fertige Blätter anzuschauen, ich kriege den Hinweis: Fehler von WAREHOUSE SPecs Manager Ultimate "CODEC ZUM EINBINDEN DIESE DATEI KONNTE NICHT GEFUNDEN WERDEN".bei der umwandlung des produktdatenspeichers ist ein fehler aufgetretenBei der Umwandlung Ihres Produktdatein ist ein Fehler aufgetretenEine Funktion (Getright) ist so fehlerhaft, das nicht einmal ein Ausgang (X) installiert
+ist! Einmal die Funktion aufgerufen - geht sie nicht wieder weg.Wenn ich bei "AutoSortSD Ultimate Functions" die Getright-Funktion starte, öffnet sich das
+entsprechende Fenster. Dieses ist allerdings in der Höhe zu gross und ragt oben und unten
+über den Bildrand hinaus. Somit kann ich es weder oben über das Kreuz schliessen, noch
+unten über die Buttons bestätigen.Fenster bei Getright ist grösser als Bildschirm (20"), sodass ich dieses nicht schließen kann; OK bzw.     Abbruch liegen außerhalb des Bildschirmes.Nach dem Import von DAT Verkaufs Objekten aus dem Systech MTX-XR435W Kartenleser mit SD erstellt,
+sind am Ende aller einzelnen Objekte immer ca. 28-150 Prozesseinzelfelder leer, während die
+Statistikanzeige fehlerfrei bis zum Ende des Objekts angezeigt wird.Aber sobald ich sie im Warehouse Sales Firstclass Programm öffne, stimmt die Bestellnummernzeile nicht mehr mit dem Ablauf überein. Beim Sales Simple Programm ist es das gleiche, Daten und Bestellnummernzeile werden nicht identisch angezeigt.seit kurzem kann ich Salesdateien im da-Format, die zb im Paymentreader völlig
+intakt sind, nicht mehr korrekt importieren.Sobald ich das Projekt speichere (als Datei - unabhängig vom Format - oder auf DVD
+brenne) stimmt die Identität zwischen Daten und Bestellnummer nicht mehr.Egal, ob ich den Prozess bearbeite oder nicht, nach dem Export laufen die Anzeigen von
+Daten und Bestellnummer auseinander.ich habe ein Problem beim Anwenden von Skripten. Sobald ich diese Einfüge, und mir
+den Prozess bzw. den Auftrag erneut ansehe, passt die Bestellnummer nicht mehr zu den Daten und an das Ende
+dieses Auftrags wird der Anfang des Auftrags hängend für ein paar Prozessschritte abgebildet.ablaufzeile  stimmt nicht mit der bestellnummernzeile überein.Wenn ich einen mit "WinCASH-BHD 312Y" erstellten Ablauf mit "Warehouse
+Abläufe im OFFICE Katalog 11" bearbeiten moechte, gibt es 
+bei der Abrechnung des
+Ablaufs keine Synchronitaet zwischsn Daten und Bestellnummer.Schon beim ersten Objekt ohne
+jegliche Bearbeitung jind nach 8-13 mb. die Daten und die Bestellnummer nicht
+mehr
+syncron.ich habe einen Ablauf von DVD (vermutlich mit
+Scanner erstellt) importiert und die Bestellnummer ist von Angang an
+asynchron.Und so viele User beklagen, dass nach einem Import eines
+Prozesses
+die Bestellnummer und die Daten nicht mehr synchron angezeigt werden.Daraufhin moechte den Ablauf einfach als data3
+exportieren. Auch das geht problemlos, jedoch sind dann im fertigen Ablauf
+Daten
+und Bestellnummern asyncron.wenn ich Abläufe zum Bearbeiten in
+das Programm lade sind Daten und Bestellnummer nicht mehr synchron.Leider habe ich nun festgestellt, dass
+die
+Bestellnummer nicht synchron mit dem Ablauf angezeigt wird.mein Problem ist, wenn ich eine ZIP Liste versuche zu
+dekomprimieren, das die Erstellung
+jedes mal asynchron ist.Nun beim
+zweiten Ablauf stimmt die Bestellnummer nicht mit den Daten ueberein.Bei der Erstellung von Prozessen mit einem Handscanner kommt es zu Versetzung
+zwischen der Bestellnummer- und der Datenzeile!Wenn ich einen erstellten Statistikprozess im Programm öffne, stimmt die Bestellnummer nicht mit den Daten überein.Wenn ich den Ablauf zur Bearbeitung in Sales
+firstclass 19 Neo Spezialedition einspiele, werden Daten und Bestellnummern nicht synchron angezeigt.sowohl auf ?Abläufe im OFFICE Katalog 11?, der ?Download-Version von Abläufe im OFFICE Katalog 11?, als auch auf
+Download-Version von ?Sales first Class 20? sind die Bestellnummern nur teilweise synchron.Sobald ich aber eine bearbeitung vornehme und den prozess in die übersicht ziehe, liegt asynchronität vor und das auch
+noch nach dem exportieren in sämtliche prozessformate.Es kömmt des Öfteren vor, dass ein Ablauf unter WindowsBudgetCreator länger dauert als unter Warehouse.Die beiden zeilen haben nach dem Import unterschiedlichen Umfang, Daten und Bestellnummern sind asynchron!Ich habe mein Specificationsheet erstellt und beim Specificationsheet exportieren und Specificationsheet freischalten
+erhalte ich bei 50% die Fehlermeldung "Insufficient memory" und "nicht ausreichend Speicher".Es erscheind nun immer "Nicht ausreichend Speicher" (obwohl auf Externen Speicher gespeichert ist) und immer öfter erscheint "Insufficient memory".Seit ein paar Tagen bekomme ich immer die Fehlermeldung "Nicht ausreichender
+Speicher" ich bekomme zur Zeit nicht mal mein Projekt vollständig über das Programm
+aufgerufen!!!Es tritt folgene Fehlermeldung nach exakt 45% Laufzeit auf: "Insufficient memory"Mein schon vor Monaten erstelletes Daten-Blatt lässt sich mit Super Specs Manager8 nicht mehr
+ins Programm laden. Es erscheint der Hinweis "nicht ausreichend Speicher".Nachdem ich nun mein Detailsheet (bisher mit Specster erstellt) kpl. neu mit Ihrer Software erstellt habe und diese nun umwandeln will bekomme ich die Fehlermeldung daß ich nicht ausreichend Speicher habe.ich habe ständig die fehlermeldung nicht ausreichend speicher, beim importieren von datn (wdt + popup 640 pix) per drag and drop.Es kommt beim exportieren des Datenblatts immer ein Zugriffsverletzung und der Hinweis der Speicher wird eng?Beim Freischalten erscheint jetzt ständig der Hinweis: "SpecsManager Nicht ausreichend Seicher".Oft kommt auch die Medlung, dass der Speicher voll ist.Leider kommt der Hinweis nicht ausreichend Speicher.Nun habe ich mehrere Bild-Dateien gelöscht, aber das 
+System merkt das nicht: es meldet den Speicher nach wie vor als voll.Bei Specs Manager 9 kommt während des Freischaltens der Hinweis: "nicht ausreichend Speicher".Ich erhalte bein Export meines Specificationsheets eine Fehlermeldung, dass der Speicher eng wird.Ich bekomme beim freischalten der Preview die Fehlermeldung "Interner Ausnahmefehler 7451.o.wh.b" Was kann ich tun? Hin und wieder kommt auch der Hinweis "nicht ausreichend Speicher"Wenn ich jetzt in meine Produktpreview kleine
+Hintergrundklänge einfügen möchte, erscheint folgender Hinweis
+das Deteiformat von H:\mein Produktarchiv\Artikel 2010\Ausverkauf Berlin\BerlinFiliale 030.PRC
+kann von Warehouse Produkte im IT & OFFICE Katalog nicht gelesen werden. Bitte stellen Sie sicher, dass das
+betroffenen Laufwerk nicht voll oder schreibgeschützt ist.Ich kann bei Produkte im IT & OFFICE Katalog 13 Suprem-Sooftware
+keine PRC Produktobjekte in den Produktbereich ziehen, es erscheind das Fenster, siehe Anhang!fehlermeldung:das Dateiformat..prc kann nicht gelesen werden,bitte vergewissern sie sich das
+das laufwerk nicht voll oder schreibgeschützt ist.Bei der Nutzung Ihres Programm Produkte im IT & OFFICE Katalog 12 firstclass
+Seriennummer:  V5-77525-84214-71767-52885-74064-35545 unter  Window 7
+
+erhalte ich bei dem Versuch einen Verkaufs-Prozess  der Datei "PRDC5663.prc" eingepflegt mit
+dem Kartenlesegerät UWORK Speedreader 13T6 einzufügen folgende Fehlerinformation:
+
+Das Dateiformat kannnicht gelesen werdenWarehouse läd nun keine PRC-Dateien, die ich mit meinem Scanixkartenleser
+gemacht habe und auf meinem vorigen PC ohne Problemein in Warehouse Sales
+firstclass 18 neo zu laden waren.Es ist mir nicht möglich fehlerfrei Abläufe, die ich mit dem Kartenleser CRX P1 angefertigt habe
+(*.PRC), in das Programm einzubringen. Es folgt dann immer die Meldung:
+
+Fout in module « CenterEncodingTools.dll » (laadadres:1x820a7666) op adres4x67158bd6 
+Uitzondering 6xc775220 !ACCES_FORBIDDEN!Laden von * PRC Dateien in den Arbeitsbereich.Nach Importieren einiger (waren etwa 11
+Stueck) ganz
+kleiner *.PRC-Dateien (7 bis 18 MB) in die Bearbeitungsleiste
+kam die Meldung:
+Problembehandlung
+Im Programm ist ein schwerwiegendes
+Problem aufgetreten.
+Fehler in Datei "CenterEncoding Tools.dll"
+(Ladeadresse: 6x34874027) an Adresse 0x274c3bd3
+Exception 3x0386687
+"ACCESS FORBIDDEN".Ich kann keine prc-Dateien mehr in meine Projekte importieren.Wenn ich dan die gebrannte DVD auf dem Computer laufen lasse kommt es zu aussetzer und
+fehlenden Bestellnummern die DVD läuft
+nicht mehr weiter ( hängt sich auf )Wenn ich bei meinem neuen Sales firstclass 20 Neo EMV ein vorhandenes Projekt lade, dann dann
+"hängt" der Bildschirm solange bis das Projekt ganz geladen ist.Diese erstellte DVD ist an meinem LG Blu-Ray Disc/DVD Laufwerk BH-10LS nicht lesbar.Beim DVD-Brennen kommt erst nach Fertigstellung beim Ausführen die Meldung, das die DVD nicht ausgeführt werden kann, weil die Benutzung für mein Land verboten ist.Um die DVDs besser auszunutzen, habe ich jetzt 6 solche
+Projekte mit der Funktion "WAREHOUSE Power writR/Daten
+zusammenstellen" auf eine DVD gebrannt mit dem Ergebnis,
+daß die DVD auf meinem DVD-Laufwerk nicht läuft.Es erscheint das Fenster zum Brennen. Aber die gebrannte DVD lässt sich auf dem DVD-Laufwerk nicht wiedergeben.Sobald ich diese DVD aber in meinen DVD-Player einlege kommt die antwort: keine Vorschauansicht.Ich habe den Proozess auf verschiedenen DVDfarbikaten gebrannt und auch auf verschiedenen DVDbrennern abgespielt.In jedem Fall ist mit der Wiedergabe nach rd. 1 Minute Schluß.ich habe mir gestern Power 6 gekauft und wollte heute mit dem Programm einen Iso-Prozess (Benefizverkauf unseres Partners) auf DVD brennen. Das hat wohl geklappt, aber es ist wieder ein sfc-Datei entstanden.wie kann man eine dvd abschliesen damit die Produktpreview auf jedem DVD Laufwerk 
+läuft ?
+läuft hier auf dem Rechner aber wird von keinem externen DVD Laufwerk erkanntMein bearbeiteter Prozess ird erfolgreich gebrannt. Ich kann ihn aber nicht ausführen. Nach ca. 4 Min. ende das Abspielen und die DVD geht auf den Anfang zurückhabe versucht beim Warehouse Specs manager xml zu generieren - das funktioniert nicht, es kommt ein Fenster von Warehouse mit Vermerk Nativer Fehler.SOBALD ICH AUF "AKTUELLES BLATT EXPORTIEREN UND VORSCHAU ANZEIGEN / KOMPLETTES DATENBLATT EXPORTIEREN UND VORSCHAU ANZEIGEN" KLICKE (FÜR
+DIE VORSCHAUFUNKTION) BEKOMME ICH DIE FEHLERMELDUNG. FEHLER VON WAREHOUSE
+SPECSMANAGER NATIVER FEHLER!Beim Star des Programms erschien der schon so oft aufgetretene Fehlercode -9.Wenn ich versuche, das Specificationsheet zu exportieren oder die Vorschau anklicke, kommt die Meldung "Nativer Fehler" (keine Fehlernummer).Beim Veröffentlichen des Specificationsheets mit Warehouse "Webspace Free" teilte mir das Programm einen "natien Fehler" mit.Hallo, ich bekomme beim Versuch Tabellen zu duplizieren folgende Fehlermeldung: Nativer Programmfehler 1878. u.sp.vBeim öffnen bzw. hochladen der Seite/n zeigt der Sheetviewer (Explorer 7.7.6004) in der Leiste oben folgende Meldung: "Das Ausführen von Skripts bzw. LifeD-Kontrollelementen, die auf den Computer zugreifen können, wurde für dieses Datenblatt aus Sicherheitsgründen unterdrückt. Klicken Sie, um weitere Optionen anzuzeigen ..."Bis zum Punkt, an dem die Daten exportiert und auf der Festplatte des heimatlichen PCs gespeichert werden sollten. Ich bekomme immer die Fehlermeldung: "Nativer Fehler".Der link:"www.onthefloor.com" erscheint auf dem Sheet Explorer Sheetviewer als "www.onfloor.de". Nach der Korrektur dieses Links wiederholt sich  der Fehler beim erneuten testen.Wenn ich aber die komplette exportiere um sie mir in der Vorschau anzuschauen kommt eine Meldung "Nativer Fehler".Seit gestern kommt folgende Fehlermeldung, wenn ich das Datenblatt exportieren (als specs.xml) bzw. freischalten will:
+"Fehler von Warehouse Specs Manager. Nativer Fehler."Wenn ich ein Link auf eine pdf-Datei erstellen möchte kommt der Hinweis "Es ist ein unproblematischer nativer Fehler aufgetreten"Specsmanager 10 ändert bei jedem Neustart, wenn ich an einem Datenblatt weiter arbeiten möchte, die DSG Dateien
+in AppData/Local/Temp/DSG.../specs_xm_sheets !Beim exportieren bzw. wenn ich die Specificationsheet-Vorschau nutzen will, zeigt mir das Programm "Nativer Fehler" an.Wichtig ist das Abschalten der Fehlermeldung "nativer Fehler" am Ende des Exportiervorgangs.Wenn ich Specsdesign vorschau drücke, kommt immer die Meldung nativer Fehler.Bei Klick auf "Vorschau" erscheint der Kasten "Datenübertragung". Entweder es erscheint dann:
+
+a)überhaupt kein Fortschrittsbalken oder
+b)er wird kurz angezeigt und bricht dann abSeit Tagen gibt es Probleme mit der Specificationsheet-Vorschau und ich kann das (neue)specificationsheet auch nicht freischalten.Ich kann auf dem Vorschau-Blatt nur ein Blatt meines DS anschauen (richtiges Symbol für ganzes Specificationsheet habe ich angeklickt).es kommt ständig der Fehler 14 bei Datei öffen für CR Umwandlungen und ich muss mein Passwort ändern, da dies nicht gültig ist.Ich möchte mit Sales first clas 18 ein Projekt exportieren in Windows Economy Export. Dabei wird das Exportieren immer kurz vor Schluß beendet, so daß der exportierte Prozess nicht ganz vollständig ist.Hallo, wollte ein Angebot (auf Basis des Handout_05) für den Gang zur Druckerei in .pdf exportieren, aber im Auswahl-Menü für Dateitypen ist PDF nicht vorhanden.Ich probiere unter Datei >
+Datenblatt-Vorschau meine Projekt anzuschauen, aber da geht leider nicht, kommt immer
+Fehler" Codec zum Import dieser Datei ist nicht verfügbar".Ich habe mein System gewechselt und kann nun nach Installation des Programms die Dateien
+nicht mehr als exportieren, da der Codec nicht verfügbar ist!Folgende Fehlermeldung tritt auf:
+"Codec zum Import dieser Datei ist nicht verfügbar."mit der Installation von Sales FIrstclass wh wurde auch der super Export Core installiert. Wenn ich nunmehr diesen Aufrufe, erscheint folgende Fehlermeldung:
+
+"Warnung,es ist keine Codec verfügbar, die für diesen Dateityp geeignet ist."Nun kommt die Meldung, die Dateien könnten nicht in den Programmordner geschrieben werden. Außerdem kann ich keine Produkte mehr laden. Es erscheint die Meldung "Codec zum Import dieser Datei ist nicht verfügbar".Taste 'F10' bringt Fehlermeldung:
+"Codec zum Import dieser Datei ist nicht verfügbar'Ich kann zwar meine Abläufe in xls exportieren, aber meine xls-Teamprozesse nicht einlesen/importieren.Liebe Warehouse-Mitarbeiter, warum erscheint nach einer Datenbearbeitung fortwährend: Codec zum import ist nicht verfügbar?Werbung lässt sich nicht Speichern, folgende Meldung erscheint:
+Codec zum Import dieser Datei ist nicht verfügbar.Der Hardwaremanager antwortet mit "Hardwareinstallation nicht möglich" und begründet, dass
+die erforderl. Software nicht gefunden wurde.Bei der
+Installation
+von WAREHOUSE Abläufe im OFFICE Katalog kam die Meldung, dass der USB-Verwalter-Treiber
+nicht installiert werden konnte, da mindestens Winddows SP 1  noetig ist.Für USB1658 Device konnte kein Treiber (Code31) gefunden werden .Weiter läßt sich die Erstellung nicht durchrechnen,
+es kommt die Fehlermeldung: Erstellung kann nicht berechnet werden.Leider muss ich  Ihnen jedoch mitteilen, dass der
+USB-Prozessverwalter
+weder eine Funktionsanzeige hat, noch sich an meinem Rechner anmeldet.nach dem kauf ihres produktes stellt sich heraus, dass der import von analogprozess über den
+usb-salesgetter von goldtop (treiber sg4512jn nfs - 43.7.29.4) nicht möglich ist und
+der vorgang verursacht einen bluescreen.Seitdem lässt sich nun auch
+der Treiber nicht mehr mit dem Programm verbinden, obwohl ich Schritt für Schritt so
+vorgegangen bin, wie auf der helpdesk-Seite beschrieben.Im Erstellungsfenster habe ich wie in der Berechnung immer Bestellnummer aber keine durchgehenden
+Prozessdaten , sondern ein Stück Datensatz im hinteren Projektbereich .Wir haben alles ordnungsgemäß angeschlossen, trotzdem keine Daten und Bestellnummern auf Preview.ich habe mir ein usb prozessverwalter gekauft (habe bereits sales first class ultimate und chartlaboratory first class)
+der lässt sich aber nicht installieren.Ich habe ein Problem mit der Installation der Traiber für "Archivieren Sie Ihre Bestandlisten".mein USB Prozessverwalter lässt sich nicht den treiber instalieren .Die Installation des
+Hardwaretreibers ist nicht möglich (entsprechend der Kurzanleitung Seite 17 für Windows
+XP).Hallo. ich bekome den treiber nicht nei, oder weil es auf Windows 7 nicht gehet.Im Erstellungsdialog auf "Erweiterte Einstellungen" erscheint bei mir als Scanquelle weder 4068 noch 1648 Device.Seither
+erscheinen immerwieder die Hinweise "In Ihrem Sytem konnte^n keine Erstellungsgräte erkannt werden"
+und "Treibersoftware für USB 1658 Device muss installiert werden.Jetzt kam der Hinweis , daß keine Verbindung zum Datenscanner hergestellt ist, auch wenn ich ihn vorher auf scan gestellt habe.Beim Einstecken des USB-Prozessverwalter 5 kommt folgender Hinweis: kein Treiber installiert.Meine diversen Versuche, einen Ablauf zu importieren, schlugen fehl.Mit der neuen Software 20 neo ist die Bearbeitung der Prozesse erheblich komplizierter
+geworden weil Daten und Bestellnummer oft unvollständig sind und die Befehle extrem langsam ausgeführt werden.Muss jetzt beim Darstellen leider feststellen,dass die importierten
+Prozessdarstellungen stocken.plötzlich geht die Berechnung los.. es stockt.. obwohl keine weiteren funktionen verwendet wurden und als dann der Auftrag mit den funktionen kommt steht das Programm fast fest.Ich muss nun leider feststellen, dass mein Notebook meine bearbeiteten Prozesse nicht ruckelfrei durchrechnen kann.Ich arbeite mit halber Leistung und das Programm kriegt kaum eine 5-S-Rechnung hin und wenn doch, dann derart stockend, dass man dien Auftrag überhauzpt nicht verarbeiten kann.Ich habe Salesdateien im Komplettformat 81 Segmente/ 15f per SD HC Karte 20 GB class 13 importiert (kopiert)
+und der Ablauf stockt.Leider werden die einzelnen Dateien nur stockend im Previewfenster abgespielt, was mir die Arbeit erheblich erschwert.Aber das Problem das ich vorher hatte ist immer noch da(flackernde Berechnung).Weiterhin passiert es, dass die Abläufe total stockend berechnet werden oder sogar in der Preview hängen bleiben, wenn ich den Übersicht etwas schneller manuell nach rechts verschiebe, weil ich einen Auftrag weiter hinten anschauen will.Wenn ich einen Ablauf eingespielt habe, stocken die Daten beim durchrechnen, desto mehr ich bearbeite, (berechne, Text und Produktdaten einfüge), desto schlimmer wird es.Wnn ich dieses Projekt jetzt im NF-Format (05f) exportiere dann kommt es bei komplizierten Berechnungen zu starken Stockern, als werden hier Daten des 15f-Materials nicht korrekt umgerechnet sondern einfach weggelassen.Beim Verarbeiten von CWVEMX Prozessen (z.B. direkte Verarbeitung) ohne voheriges Berechnen stockt die Previewanzeige in diesem Abschnitt des Ablaufs.Mein Problem ist nun das importierte Abläufe im Programm nur stockend angezeigt werden.Die angeklickte Directory stockt bei den Daten und Bestellnummer kommt nicht simultan.ist folgende ausrüstung gut genug um beim bearbeiten von cwvemx clips ohne stocken durchrechnen zu können:Wenn ich einen Ablauf von Antonio Deabreu (Gewinkalkulation) nach Warehouse WH Sales spiele stockt diese obwohl sie berrechnet wurde Von Warehouse WHInternes Problem beim
+Brennen.Nach dem 3
+Schritt ist der Brennvorgang unterbrochen mit folgendem Hinweis:
+wmem
+reports disc project build exception 405388a2beim brennen von Blu-rays wird brennforgang unterbrochen.Beschreibung (internes Problem)Problem bei Sales firstclass 2009 Ultimate tritt bei Speicherung vom Prozess
+auf DVD auf, mit der Fehlermeldung: Internes Problem während der Durchführung.Nach kurzer Zeit erscheint beim Brennen ein kleines
+Fenster auf dem Bidschirm, wo steht
+- Internes Problem - und das Brennen von der Produktpreview wrd abgebrochen.Ploetzlich der Abbruch nachdem alles vorbereitet ist
+unter: Proucessing - internes Problem- Datei nicht vorhanden.laeuft normal durch bis zur
+Meldung"Disc wir gebrannt". Dann kommt ein Abbruch mit "Internes
+Problem waehrend der Durchführung" und ein Zusatzvermerk "Kein Zugriffsrechte auf
+das Laufwerk.Jatzt kommt beim Start der
+Brennvorgang die Fehlermeldung \"Brennen wurde unterbrochen - Internes
+Problem\" und der PC ist blockiert und muss erneut hochgefahren werden.nach Einbau eines neuen DVD-Laufwerkes (GGD FG 25 LP56) ist es nicht mehr möglich, nach erstellten Ablauf (s. Prgramm unter Betreff) eine DVD zu brennen.beim brennen des fertiggestellten Ablaufes
+internes Problem bei der durchführungES TRAT SCHON BEIM ERSTEN BRENNANLAUF
+EIN INTERNES PROBLEM AUF !Brennvorgang laeuft
+bis
+zum vorletzten Schritt problemlos, dann kommt die Fehlermeldung bei
+Fuellstandsanzeige 24123 MB/05088 GH-QD , \"Internes Problem waehrend der
+Durchführung\" nachdem auf dem Bildschirm Schritt 7 von 7 und Disc wird
+formatiert abgekuendigt wurde.Fehlermeldung: internes Problem während der Durchführung
+Problem tritt immer auf;Der Schritt des Brennens bricht mit
+einem internen Problem ab.Beim Brennen kommt die
+Fehlermeldung, gleich zu Beginn, "internes Problem".Nach dem Einlesen und Bearbeitung des Ablaufes erfolgt dann 
+beim Brennvorgang immer die gleiche Meldung: Internes Problem bei der Bearbeitung.Internes Problem waehren der Durchfuehrung; Das Brennen wurde fit
+folgendem Fehler Abgebrochen;Das Laufwerk wird nicht komplett
+unterstuetzDoch nach den Verschlüsselungs-Vorgaengen
+kam
+eine Fehlermeldung und das Brennen wurde abgebrochen.Die Schritte 2-6 Verschlüsseln und Processing werden durchgeführt, beim
+
+Schritt 7 "Brenne CD" kommt die Fehlermeldung "Brennvorgang auf
+grund
+eines internen Problems unterbrochen".Nach Umwandlung des Ablaufs erkennt Sales firstclass 2009 NEO zum Brennen
+der DVD nicht den per COM angeschlossenen externen Brenner Jacobs
+PWR0868 und bricht mit der Hinweis eines internen Fehlers ab.Nach ca.4 min verschlüsseln erfolgt Abbruch mit folgendem
+Hinweis:Internes Problem während der Durchführung.Das Brennen wird jedesmal mit folgendem Fehler unterbrochen:
+
+Internes Problem während der Durchführung.Internes Problem während der Durchführung, Vorgang abgebrochen (beim Brennen).bricht beim brennen abNach einem kurzen Moment wird angezeigt \"wmem reports disc project build
+exceptios\". Nach der OK Bestaetigung kommt dann \"verschlüsseln
+fehlgeschlagen\"Leider ist es mir bisher nicht gelungen, eine DVD zu erzeugen, da das Verschlüsseln jedes Mal mit einer Fehlermeldung abgebrochen wird:
+ 
+wmem reports disc project build exceptionFehlermeldung: wmem reports disc project build exception 026416f5Ich habe Warehouse 20 installiert - jetzt kann ich auch unter Warehouse 19 keine
+DVD brennen.ist dieser Scritt fertig, kommt eine Fehleranzeige,
+"wmem
+reports disc project build exception: 026416f5Nach dem ich in der Produktpreview eine kleine Korrektur
+gemacht hatte, bekam ich immer eine Fehlermeldung - siehe dazu den Dateianhang.immer, wenn ich einen Prozess brennen will und im Brennmodus unter "bearbeiten" ein eigenes
+Label ( als bmp od jpg )einfüge, das auch im Vorschaumonitor richtig angezeigt
+wird, bekommen ich nach dem Start des Brennvorgangs folgenden Hinweis:
+wmem reports disc project build exception: 026416f5 und der Brennvorgang wird abgebroche.Der der Brennvorgang wird nach dem verschlüsseln
+abgebrochen.Der Brennvorgang wird nach dem Processing mit dem folgenden Hinweis
+abgebrochen:
+
+wmem reports disc project build exceptionIch besitze schon eine längere Zeit Ihre Softwares, jetzt habe ich einen neuer Rechner bekommen mit Windows 7 habe dort das Programm? Produkt im IT&OFFICE Katalog 11firstclass" installiert und möchte jetzt die Artikelpreview auf eine DVD Brennen und erhalte eine Fehlermeldung" wmem  Reports disc  project build exception: 026416f5 " damit kann ich nichts anfangen, können Sie mir helfen?brennen ist nicht moeglich.Ich bekomme beim Brennen folgenden Fehlercode: 026416f5 (Verschlüsseln
+fehlgeschlagen) Was kann ich tun?Heute habe ich beim verschlüsseln erstmals den Fehler "WMEM reports disc
+build exception: 026416f5" bekommen.Ich kann weder EM noch EMVX vom Kartenleser laden. Geraet
+wird nicht erkanntSales firstclas 19 Ultimate stellt fest, dass keine Verbindung zum Systech Sales
+Scanner zum Aufzeichnen von EM Prozessen aufgebaut werden konnte.Es erscheint immer der
+Hinweis, Es konnte keine Verbindung zur Hardware aufgebaut werden.Auf meinem neuen Rechner kommt bei der Erstelung von dem Kartenleser,immer folgende Fehlermeldung: Es konnte keine Verbindung zur Hardware aufgebaut werden.Leider kann ich meinen Datenscanner SOLARMOBILE MB-HD700
+nicht aktivieren.bei der Abrechnung der Salesdateien mit dem o.g. Programm kommt es zu hohen Fehlerquote bei den Bestellnummern (auch nach der Berechnung).Bei Prozess Dateien im DT5 Format ist die Bestellnummer komplett falsch.Beim Import eines data-5-Prozesses (81seg EMV) von meiner Tiffey Blast 4250 Workstation werden zwar die Daten dargestellt (und berechnet), als Bestellnummer kommt jedoch nur ein (leeres) Feld.Beim import meiner dt5-Salesdateien meiner Workstation, wird die Bestellnummer häufig falsch übertragenprozes von vorkstation sind fahlsch Plast 4250
+ungültige bestellnummerMeine in Bearbeitung befindliche Artikelpreview lässt sich nicht mehr starten / bearbeiten.Fehlermeldung bei Installation (Programmpunkt: Interbase SPARQL Server):
+...bei
+Umwandlung ihres Produktdatenspeichers ist ein Problem aufgetreten..Da kam eine Fehlermeldung, dass bei der
+Installation vom Interbase SPARQL-Server ein Fehler aufgetreten wäre und der Datenspeicher nicht
+umgewandelt werden konnte.Fehlermeldung: "Bei Umwandlung Ihres Produktdatenspeichers ist ein Problem aufgetreten. Sie werden Ihren Datenspeicher deswegen mit dieser Software nicht verwenden können. Bitte wenden Sie sich an den Helpdesk."Bei der Instalation kommt der Hinweis 
+bei der Umwandlung ihres Produktdatenspeichers ist ein Fehler auf getreten. Sie werden ihren
+Datenspeicher deswegen mit dieser Sofwahre nicht verwenden können .Erste Fehlermeldung ist, dass ich meine
+Datenspeicher nicht benutzen könne(bei der Umwandlung ihres Produktdatenspeichers ist ein
+Fehler aufgetreten...).Jedesmal wenn ich das Programm neu aufspiele erscheint der Hinweis: Bei der Umwandlung Ihrer Produktdatei ist ein Problem aufgetreten. Sie werden Ihren Datenspeicher deswegen mit dieser Software nicht verwenden können. Bitte wenden Sie sich an den HelpdeskBei neuen XLS-Umwandlungen meldete sich immer der SPARQL-Datenspeicher mit einer langen FehlermeldungDabei kam es zu folgender Fehlermeldung:
+
+Bei der Umwandlung Ihres Produktdatenspeichers ist ein Problem aufgetreten. Sie werden Ihren Datenspeicher deswegen mit dieser Software nicht verwenden können. Bitte wenden Sie sich an den Helpdesk um Unterstützung zu bekommen.Alle meine vesuche enden bei...bei Umwandlun des P.speicher,ist ein Problem...Software nicht nützen können...???bei der installation kam eine fehlermeldung "bei der umwandlung ihres  
+produktdatenspeichers ist ein problem aufgetreten.sie werden ihren produktspeicher daher  
+mit diesem produkt nicht verwenden können.bitte wenden sie sich an den helpdesk  
+um unterstützung zu bekommen"Bei Installation der neu erworbenen Software ist folgendes Problem aufgetreten (Fehlermeldung): "Bei der Umwandlung Ihres Produktdatenspeichers ist ein Problem aufgetreten. Sie werden Ihren Datenspeicher deswegen mit dieser Software nicht verwenden können. Bitte wenden Sie sich an den Helpdesk um Unterstützung zu bekommen".bei der Installation des Interbase SPARQL Server wird die Installation angehalten und es erscheint die Fehlermeldung:
+
+"Bei der Umwandlung des Produktdatenspeichers ist ein Problem aufgetreten. Sie werden den Datenspeicher bei dieser Software nicht verwenden können. Bitte wenden Sie sich an den Helpdesk um Unterstützung zubekommen."Bei der Installation bekomme ich folgende Fehlermeldung:
+Bei der Umwandlung Ihres Produktdatenspeichers ist ein Problem aufgetreten .......
+Bitte wenden Sie sich an den Helpdesk ....Folgender Hinweis bei der Installation: Bei der Installation ihres Datenspeichers ist ein Problem vorgekommen. Sie werden diesen aus diesem Grund nicht verwenden können.Nach der Installation der SPARQL Datenspeicher kommt beim Umwandeln des Speichers eine Fehlermeldung.Bei der Installation kommt die Fehlermeldung Produktdatenspeicher kann nicht umgewandelt werden.Beim Start kommt immer wieder das Anmeldefenster der
+Registrierung mit meiner Serien Nr.jedes Mal, wenn ich Sales firstclass 20 neo starte, werde ich aufgefordert dieses Produkt zu
+registrieren.mein SFC19 Ultimate PE behauptet dauernd, es wäre nicht registriert.Als erstes erscheint die Registrierungsabfrage. Sie wird mit bereits registriert
+angezeigt. wenn ich "starten" drücke bricht alles ab.Leider musste ich feststellen das mein Konto anscheinend nicht eingerichtet wurde und ich habe mich deshalb selbst noch einmal auf ihrer Seite registriert. Als ich dann meinen SpecsManager 11 registrieren wollte, wurde dies geblockt mit der Meldung das dieses Produkt schon registriet sei und ich es nicht zweimal registrieren brauche.Wenn ich aber den Patch installieren möchte, kommt die Meldung: "Sie müssen erst Specsmanager 9 installieren".Ich habe aber das Programm installiert.Leider bekomme ich immer wieder beim Laden der Daten im XDAT Format eine Fehlermeldung ,,No Global memory in whalloclocalpnt for address 33" wie mehrere andere auch http;//www.warehouse.info/de/no-global-memory.tipps.816314.html / http;//www.warehouse.info/de/produkt-organizer-13-firstclass-dateien-laden.tipps.740537.html.bei jeder aktion, die ich im programm durchführen möchte werde ich gebeten mich zu registrierenich habe eine unvollständige Mailadresse angegeben.Wenn ich mich jetzt einlogge,erscheint der Hinweis ,daß die Seriennummer schon benutzt wird.Hinter beiden Angaben (SN und Mail) ist ein grüner Haken. Wenn man dann auf "Starten" geht, passiert nix, das Programm startet nicht.Nun möchte ich es gerne registrieren geht aber nicht da es schon für eine andere E-Mail registriert ist.nach der eingabe der sernr sagt er mir ich soll es erst regestrieren 
+mache ich dann sagt er
+Die von Ihnen eingebene Seriennummer wurde bereits genutzt. Vermutlich haben Sie sich bereits registriert. Ein erneutes Registrieren ist nicht nötig.Einerseits bekomme ich die Meldung ich möge mich registrieren, dann wieder ich sei bereits registriert.Wenn ich allerdings eine Aktualisierung des Prgramms über das Netz durchführen will, fragt das System mich nach der Registriernummer; ich kann daraus folgend das Programm nicht aktualisieren.Bei der Registrierung erhalte ich die Meldung, meine Seriennummer werde bereits verwendet.zuerst zeigt es an: falsche Bestellnummer
+beim zweiten Mal  : falsche Seriennummerals ich mein online erworbenes Produkt registrieren wollte wurde mir dieser Hinweis angezeigt:
+"Die maximale Anzahl Freischaltungsvorgänge wurde überschritten."Beim Versuch das Programm zu installieren erscheint folgende Meldung:
+ 
+Bei der Umwandlung ihres Produktdatenspeichers ist ein Problem aufgetreten. Sie werden Ihren Datenspeicher deswegen mit dieser Software nicht verwenden können. Bitte wenden Sie sich an den Helpdesk um Hilfe.kommt immer der Hinweis: bei der umwandlung ihres
+produktdatenspeichers ist ein problem aufgetreten, die software kann nicht installiert werden und
+alles bisherige wird deinstalliert.Fehlermeldung: Interbase SPARQL Server-Warehouse Edition Setup Bei der Umwandlung Ihres Produktdatenspeichers ist ein Problem aufgetreten. Sie werden Ihre Datenbank mit dieser Software nicht verwenden können. Bitte wenden Sie sich an den HelpdeskNach der Installation kommt beim ersten Programmstart die folgende Fehlermeldung: Fehler im WAREHOUSE-Datenspeicher ! Es ist möglich, dass einige Funktionen nicht verfügbar sind.Ich verwende den Produktorganizer und Produkte im IT&OFFICEKatalog Version 11. 3 Jahre gab es keine Fehler, dann kam der Hinweis "Fehler im Datenspeicher" und nichts bewegt sich mehr.Fehler im Warehouse Datenspeicher, alle angegebenen Optionen ausprobiert.Beim Start von XLS firstclass 20 kommt die Auskunft
+"Fehler in Warehouse Datenspeicher. Es ist möglich, dass manche Funktionen nicht verfügbar sind.bereits bei der Installation wurde darauf hingewiesen,
+daß Produktdaten nicht umgewandelt werden konnten und
+das Programm teilweise nicht funktionieren könnte.Mit Beginn der Installation wurde folgender Hinweis angezeigt:
+Bei der Umwandlung Ihres Produktdatenspeichers ist ein Problem aufgetreten. Sie werden Ihren Datenspeicher deswegen mit dieser Software nicht verwenden können. Bitte wenden Sie sich an den Helpdesk um Unterstützung zu bekommen.Nach der Installation der Software Prdukte im OFFICE Katalog WH Firstclass kam der Hinweis das derInterbase SPARQL Server nicht installiert werden kann die Umwandlung des Produktdatenspeichers nicht vollständig umgewandelt wurde, obnwohl ich mir den Interbase extra von Warehouse noch mals runtergeladen habeBei der Installierung der Komponente 4 kommt die Nachricht:Bei der Umwandlung ihres Produktspeichers ist ein Problem aufgetreten.Sie werden Ihren Datenspeicher deswegen mit dieser Software nicht verwenden können.Vor der eigentlichen Installation erschien die Fehlermeldung, dass der ProduktdatenspeicherBeim aufspielen von PRODUKTE IM OFFICE KATALOGWH bekomme ich folgende Fehlermeldung bei der Umwandlun Ihres Produktdatenspeichers ist ein Fehler augetreten

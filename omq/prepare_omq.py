@@ -5,16 +5,47 @@ from keras.layers import Dropout
 from keras.layers import LSTM
 from keras.utils import np_utils
 
-# load ascii text and covert to lowercase
-filename = "data/wonderland.txt"
-raw_text = open(filename).read()
+import xml.etree.ElementTree
+from functional import seq
+
+def read_data():
+    categories_iter = xml.etree.ElementTree.parse('./data/OMQ/omq_public_categories.xml').getroot().iter('category')
+    interactions_root = xml.etree.ElementTree.parse('./data/OMQ/omq_public_interactions.xml').getiterator('interaction')
+
+    return categories_iter, interactions_root
+
+
+def to_request_row(request_element):
+    text = request_element.findtext('text/relevantText').strip()
+    category = request_element.findtext('metadata/category')
+    id = request_element.findtext('metadata/id')
+
+    return {'id': id, 'category': category, 'text_raw': text }
+
+def encoded_seq_to_string(encoded_seq):
+    pass
+
+categories, interactions = read_data()
+interaction_texts = seq(interactions).map(to_request_row).map(lambda i: i['text_raw']).to_list()
+
+# filename = "data/omq_interactions_text.txt"
+#raw_text = open(filename).read()
+
+raw_text = texts = '\n'.join(interaction_texts)
 raw_text = raw_text.lower()
 
 # create mapping of unique chars to integers
 chars = sorted(list(set(raw_text)))
-#print chars
+print(chars)
+#TODO remove special chars ?
+
 char_to_int = dict((c, i) for i, c in enumerate(chars))
-#print char_to_int
+print(char_to_int)
+
+for 
+
+exit()
+
 
 n_chars = len(raw_text)
 n_vocab = len(chars)
