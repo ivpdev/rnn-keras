@@ -58,85 +58,63 @@ def generate_training_data(texts):
 
     return X, y
 
+def delete_newlines(text):
+    return text.replace('\n', ' ')
+
 def build_char_to_int(text):
     chars = sorted(list(set(text)))
     char_to_int = dict((c, i) for i, c in enumerate(chars))
 
-    return char_to_int
+    return char_to_int, len(chars)
 
 def encode_char(char, dict):
     pass
 
 def encode_string(char, dict):
-
     pass
 
 categories, interactions = read_data()
-interaction_texts = seq(interactions).map(to_request_row).map(lambda i: i['text_raw']).to_list()
-#TODO replace new line with space
+interaction_texts = seq(interactions).map(to_request_row).map(lambda i: i['text_raw']).map(delete_newlines).to_list()
 
 X_text, y_text = generate_training_data(interaction_texts)
 
+char_to_int, n_vocab = build_char_to_int(' '.join(interaction_texts))
+X_int = list(map(lambda x: [char_to_int[char] for char in x], X_text))
+y_int = list(map(lambda y1: char_to_int[y1], y_text))
 
-
-
-# filename = "data/omq_interactions_text.txt"
-#raw_text = open(filename).read()
-
-raw_text = texts = '\n'.join(interaction_texts)
-raw_text = raw_text.lower()
-
-# create mapping of unique chars to integers
-chars = sorted(list(set(raw_text)))
-print(chars)
-#TODO remove special chars ?
-
-char_to_int = dict((c, i) for i, c in enumerate(chars))
-print(char_to_int)
-
-
-exit()
-
-
-n_chars = len(raw_text)
-n_vocab = len(chars)
-print("Total Characters: ", n_chars)
-print("Total Vocab: ", n_vocab)
-
-# prepare the dataset of input to output pairs encoded as integers
-seq_length = 100
-dataX = []
-dataY = []
-for i in range(0, n_chars - seq_length, 1):
-	seq_in = raw_text[i:i + seq_length]
-	seq_out = raw_text[i + seq_length]
-	dataX.append([char_to_int[char] for char in seq_in])
-	dataY.append(char_to_int[seq_out])
-n_patterns = len(dataX)
-print("Total Patterns: ", n_patterns)
-
-#print "Preview patterns:"
-#print dataX[0:10]
-#print '--------'
-#print dataY[0:10]
-
+n_patterns = len(X_int)
 
 # reshape X to be [samples, time steps, features]
-X = numpy.reshape(dataX, (n_patterns, seq_length, 1))
-# normalize
+X = numpy.reshape(X_int, (n_patterns, hyper_params['seq_length'], 1))
+
 X = X / float(n_vocab)
-# one hot encode the output variable
-y = np_utils.to_categorical(dataY)
 
-#print '-----------'
-#print X
-#print '-----------'
-#print y
+y = np_utils.to_categorical(y_int)
 
-# define the LSTM model
+
+#TODO remove special chars ?
+#TODO to lower?
+
 model = Sequential()
 model.add(LSTM(256, input_shape=(X.shape[1], X.shape[2])))
 model.add(Dropout(0.2))
 model.add(Dense(y.shape[1], activation='softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='adam')
+
+
+
+from keras.callbacks import ModelCheckpoint
+
+# define the checkpoint
+checkpoint_filepath="data/model/v3weights-improvement-{epoch:02d}-{loss:.4f}.hdf5"
+checkpoint = ModelCheckpoint(checkpoint_filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
+callbacks_list = [checkpoint]
+
+print('Fitting model....')
+# prepare.model.fit(prepare.X[0:1000], prepare.y[0:1000], epochs=10, batch_size=128, callbacks=callbacks_list)
+prepare.model.fit(X, y, epochs=10, batch_size=32, callbacks=callbacks_list)
+
+
+exit()
+
 
