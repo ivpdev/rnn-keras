@@ -8,6 +8,10 @@ from keras.utils import np_utils
 import xml.etree.ElementTree
 from functional import seq
 
+hyper_params = {
+    'seq_length': 100
+}
+
 def read_data():
     categories_iter = xml.etree.ElementTree.parse('./data/OMQ/omq_public_categories.xml').getroot().iter('category')
     interactions_root = xml.etree.ElementTree.parse('./data/OMQ/omq_public_interactions.xml').getiterator('interaction')
@@ -22,11 +26,59 @@ def to_request_row(request_element):
 
     return {'id': id, 'category': category, 'text_raw': text }
 
-def encoded_seq_to_string(encoded_seq):
+def generate_seqs_from_text(text):
+    dataX = []
+    dataY = []
+    n_chars = len(text)
+    seq_length = hyper_params['seq_length']
+    char_end_of_text = '\t'
+
+    #TODO check if input is shorter then seq_length
+
+    for i in range(0, n_chars - 1, 1):
+        if (i < (n_chars - seq_length)):
+            seq_in = text[i:i + seq_length]
+            seq_out = text[i + seq_length]
+        else:
+            seq_in = text[i:n_chars] + (char_end_of_text * (seq_length - (n_chars - i)))
+            seq_out = char_end_of_text
+
+        dataX.append(seq_in)
+        dataY.append(seq_out)
+
+    return dataX, dataY
+
+def generate_training_data(texts):
+    X = []
+    y = []
+    for text in texts:
+        X1, y1 = generate_seqs_from_text(text)
+        X.extend(X1)
+        y.extend(y1)
+
+    return X, y
+
+def build_char_to_int(text):
+    chars = sorted(list(set(text)))
+    char_to_int = dict((c, i) for i, c in enumerate(chars))
+
+    return char_to_int
+
+def encode_char(char, dict):
+    pass
+
+def encode_string(char, dict):
+
     pass
 
 categories, interactions = read_data()
 interaction_texts = seq(interactions).map(to_request_row).map(lambda i: i['text_raw']).to_list()
+#TODO replace new line with space
+
+X_text, y_text = generate_training_data(interaction_texts)
+
+
+
 
 # filename = "data/omq_interactions_text.txt"
 #raw_text = open(filename).read()
@@ -42,7 +94,6 @@ print(chars)
 char_to_int = dict((c, i) for i, c in enumerate(chars))
 print(char_to_int)
 
-for 
 
 exit()
 
