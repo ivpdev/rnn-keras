@@ -65,7 +65,7 @@ def build_char_to_int(text):
     chars = sorted(list(set(text)))
     char_to_int = dict((c, i) for i, c in enumerate(chars))
 
-    return char_to_int, len(chars)
+    return char_to_int, len(chars), chars
 
 def encode_char(char, dict):
     pass
@@ -78,7 +78,7 @@ interaction_texts = seq(interactions).map(to_request_row).map(lambda i: i['text_
 
 X_text, y_text = generate_training_data(interaction_texts)
 
-char_to_int, n_vocab = build_char_to_int(' '.join(interaction_texts))
+char_to_int, n_vocab, chars = build_char_to_int('\t'.join(interaction_texts))
 X_int = list(map(lambda x: [char_to_int[char] for char in x], X_text))
 y_int = list(map(lambda y1: char_to_int[y1], y_text))
 
@@ -112,9 +112,6 @@ callbacks_list = [checkpoint]
 
 print('Fitting model....')
 # prepare.model.fit(prepare.X[0:1000], prepare.y[0:1000], epochs=10, batch_size=128, callbacks=callbacks_list)
-prepare.model.fit(X, y, epochs=10, batch_size=32, callbacks=callbacks_list)
-
-
-exit()
+# model.fit(X, y, epochs=10, batch_size=32, callbacks=callbacks_list)
 
 
