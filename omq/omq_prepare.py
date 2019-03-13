@@ -92,25 +92,24 @@ X = X / float(n_vocab)
 y = np_utils.to_categorical(y_int)
 
 
+
 #TODO remove special chars ?
 #TODO to lower?
 
-model = Sequential()
-model.add(LSTM(256, input_shape=(X.shape[1], X.shape[2])))
-model.add(Dropout(0.2))
-model.add(Dense(y.shape[1], activation='softmax'))
-model.compile(loss='categorical_crossentropy', optimizer='adam')
+# model = Sequential()
+# model.add(LSTM(256, input_shape=(X.shape[1], X.shape[2])))
+# model.add(Dropout(0.2))
+# model.add(Dense(y.shape[1], activation='softmax'))
+# model.compile(loss='categorical_crossentropy', optimizer='adam')
 
-
-
-from keras.callbacks import ModelCheckpoint
+# from keras.callbacks import ModelCheckpoint
 
 # define the checkpoint
-checkpoint_filepath="data/model/v3weights-improvement-{epoch:02d}-{loss:.4f}.hdf5"
-checkpoint = ModelCheckpoint(checkpoint_filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
-callbacks_list = [checkpoint]
+# checkpoint_filepath="data/model/v3weights-improvement-{epoch:02d}-{loss:.4f}.hdf5"
+# checkpoint = ModelCheckpoint(checkpoint_filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
+# callbacks_list = [checkpoint]
 
-print('Fitting model....')
+# print('Fitting model....')
 # prepare.model.fit(prepare.X[0:1000], prepare.y[0:1000], epochs=10, batch_size=128, callbacks=callbacks_list)
 # model.fit(X, y, epochs=10, batch_size=32, callbacks=callbacks_list)
 
