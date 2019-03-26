@@ -7,12 +7,10 @@ import omq_prepare
 import os
 print(os.path.dirname(os.path.realpath(__file__)))
 
-model = omq_model_def.get_model(omq_prepare.X, omq_prepare.y)
-
 # load the network weights
-filename = "./data/model/v3weights-improvement-10-5.4775.hdf5"
-model.load_weights(filename)
-model.compile(loss='categorical_crossentropy', optimizer='adam')
+filename = "./data/model/v3weights-improvement-09-0.9317.hdf5"
+omq_model_def.model.load_weights(filename)
+omq_model_def.model.compile(loss='categorical_crossentropy', optimizer='adam')
 
 int_to_char = dict((i, c) for i, c in enumerate(omq_prepare.chars))
 
