@@ -167,6 +167,6 @@ callbacks_list = [checkpoint]
 
 print('Fitting model....')
 # prepare.model.fit(prepare.X[0:1000], prepare.y[0:1000], epochs=10, batch_size=128, callbacks=callbacks_list)
-model.fit(X, y, epochs=10, batch_size=32, callbacks=callbacks_list)
+#model.fit(X, y, epochs=10, batch_size=32, callbacks=callbacks_list)
 
 
